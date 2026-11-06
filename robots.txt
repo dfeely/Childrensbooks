@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://childrensbooks.ie/sitemap.xml
+Sitemap: https://www.childrensbooks.ie/sitemap.xml

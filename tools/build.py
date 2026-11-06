@@ -17,7 +17,7 @@ import sys
 import markdown
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))
-SITE = "https://childrensbooks.ie"
+SITE = "https://www.childrensbooks.ie"
 NAME = "childrensbooks.ie"
 TODAY = "2026-11-06"
 OG_IMAGE = "/assets/img/og-image.png"
@@ -328,7 +328,7 @@ def main():
     open(os.path.join(ROOT, "sitemap.xml"), "w", encoding="utf-8").write(
         '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + "\n".join(urls) + "\n</urlset>\n")
     open(os.path.join(ROOT, "robots.txt"), "w").write(f"User-agent: *\nAllow: /\n\nSitemap: {SITE}/sitemap.xml\n")
-    open(os.path.join(ROOT, "CNAME"), "w").write("childrensbooks.ie\n")
+    open(os.path.join(ROOT, "CNAME"), "w").write("www.childrensbooks.ie\n")
     open(os.path.join(ROOT, ".nojekyll"), "w").write("")
     print(f"built {len(outputs)} pages + 404, sitemap.xml, robots.txt, CNAME")
 

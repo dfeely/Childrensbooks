@@ -27,6 +27,7 @@ NAV = [
     ("Books by age", "/books-by-age/"),
     ("Irish books", "/irish-childrens-authors/"),
     ("Bedtime", "/bedtime-stories-for-children/"),
+    ("Christmas", "/best-christmas-books-for-children/"),
     ("Guides", "/guides/"),
     ("About", "/about/"),
 ]
@@ -44,6 +45,9 @@ FOOT_IRISH = [
     ("Bedtime stories", "/bedtime-stories-for-children/"),
     ("Books about feelings", "/books-about-feelings-for-children/"),
     ("Gift guide", "/childrens-book-gift-guide/"),
+    ("Christmas books", "/best-christmas-books-for-children/"),
+    ("Christmas Eve box", "/christmas-eve-box-and-bedtime-stories/"),
+    ("Irish Christmas", "/irish-christmas-books-and-traditions/"),
 ]
 FOOT_GUIDES = [
     ("All guides", "/guides/"),

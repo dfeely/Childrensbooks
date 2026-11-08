@@ -27,6 +27,7 @@ NAV = [
     ("Books by age", "/books-by-age/"),
     ("Irish books", "/irish-childrens-authors/"),
     ("Bedtime", "/bedtime-stories-for-children/"),
+    ("Top 20", "/top-20-childrens-books/"),
     ("Christmas", "/best-christmas-books-for-children/"),
     ("Guides", "/guides/"),
     ("About", "/about/"),
@@ -45,6 +46,7 @@ FOOT_IRISH = [
     ("Bedtime stories", "/bedtime-stories-for-children/"),
     ("Books about feelings", "/books-about-feelings-for-children/"),
     ("Gift guide", "/childrens-book-gift-guide/"),
+    ("Top 20 children’s books", "/top-20-childrens-books/"),
     ("Christmas books", "/best-christmas-books-for-children/"),
     ("Christmas Eve box", "/christmas-eve-box-and-bedtime-stories/"),
     ("Irish Christmas", "/irish-christmas-books-and-traditions/"),
@@ -199,7 +201,7 @@ def head(title, desc, url, kind, noindex=False):
 <link rel="preload" href="/assets/fonts/young-serif-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="/assets/fonts/atkinson-hyperlegible-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="/assets/css/style.css">
-<meta property="og:type" content="{'article' if kind in ('age', 'guide', 'topic') else 'website'}">
+<meta property="og:type" content="{'article' if kind in ('age', 'guide', 'topic', 'book') else 'website'}">
 <meta property="og:site_name" content="{NAME}">
 <meta property="og:locale" content="{LOCALE}">
 <meta property="og:title" content="{t}">
@@ -245,7 +247,30 @@ def build_page(meta, pages, outputs):
         crumbs.append((meta["h1"], url))
         schema.append({"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [
             {"@type": "ListItem", "position": i + 1, "name": n, "item": u} for i, (n, u) in enumerate(crumbs)]})
-        if kind in ("age", "guide", "topic"):
+        if kind == "book":
+            bk = {"@context": "https://schema.org", "@type": "Book", "name": meta["h1"], "url": url, "inLanguage": "en",
+                  "description": meta["description"], "image": f"{SITE}/assets/img/{meta['image']}.svg",
+                  "author": {"@type": "Person", "name": meta["book_author"]}, "genre": meta["book_genre"],
+                                    "audience": {"@type": "PeopleAudience", "suggestedMinAge": int(meta["book_agemin"]), "suggestedMaxAge": int(meta["book_agemax"])}}
+            fm = meta["book_format"].lower()
+            if "hardback" in fm:
+                bk["bookFormat"] = "https://schema.org/Hardcover"
+            elif "paperback" in fm:
+                bk["bookFormat"] = "https://schema.org/Paperback"
+            if meta.get("book_illustrator"):
+                bk["illustrator"] = {"@type": "Person", "name": meta["book_illustrator"]}
+            if meta.get("book_publisher"):
+                bk["publisher"] = {"@type": "Organization", "name": meta["book_publisher"]}
+            if meta.get("book_published"):
+                bk["datePublished"] = meta["book_published"]
+            if meta.get("book_pages"):
+                bk["numberOfPages"] = int(meta["book_pages"])
+            if meta.get("book_isbn"):
+                bk["isbn"] = meta["book_isbn"]
+            if meta.get("book_series"):
+                bk["isPartOf"] = {"@type": "BookSeries", "name": meta["book_series"]}
+            schema.append(bk)
+        elif kind in ("age", "guide", "topic"):
             w, h = svg_size(meta["image"])
             schema.append({"@context": "https://schema.org", "@type": "Article", "headline": meta["h1"],
                            "description": meta["description"], "inLanguage": "en-IE",

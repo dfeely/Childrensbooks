@@ -167,3 +167,14 @@ blockquote p:last-child{margin-bottom:0}
   @keyframes settle{from{transform:translateY(14px) rotate(-1.2deg)}to{transform:none}}
 }
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important}}
+
+/* top-20 grid */
+.bookgrid{list-style:none;margin:1.6rem 0 2rem;padding:0;display:grid;gap:1.1rem;grid-template-columns:repeat(auto-fill,minmax(min(100%,16rem),1fr))}
+.sheet>.bookgrid{max-width:none}
+.bookcard{margin:0;position:relative}
+.bookcard a{display:flex;flex-direction:column;height:100%;background:var(--paper);border:var(--line);border-radius:var(--radius);overflow:hidden;text-decoration:none;color:var(--ink);box-shadow:4px 4px 0 var(--ink);transition:transform .12s,box-shadow .12s}
+.bookcard a:hover{transform:translate(2px,2px);box-shadow:2px 2px 0 var(--ink);color:var(--ink)}
+.bookcard img{width:100%;aspect-ratio:2/1;object-fit:cover;border-bottom:var(--line);background:var(--sky)}
+.bookcard strong{font-family:var(--serif);font-weight:400;font-size:1.1rem;line-height:1.25;padding:.7rem .9rem .1rem}
+.bookcard .by{padding:0 .9rem .9rem;font-size:.95rem;color:var(--ink-soft)}
+.bookcard .n{position:absolute;top:.5rem;left:.5rem;min-width:2.1rem;height:2.1rem;padding:0 .4rem;display:grid;place-items:center;border-radius:99px;background:var(--butter);border:var(--line);font-family:var(--serif);font-size:1.05rem;line-height:1}

@@ -64,6 +64,8 @@ This title has an Irish link through its author, setting or subject, which makes
 
 Donncha O’Callaghan is a former Ireland and Munster rugby player. The Disaster Dad series draws on the idea of a dad whose enthusiasm keeps getting him into trouble.
 
+Read more on our [Donncha O’Callaghan author page](/donncha-ocallaghan/).
+
 ## If your child likes this, try…
 
 - [Milly McCarthy and the Doggy Daycare Drama](/milly-mccarthy-and-the-doggy-daycare-drama/) by Leona Forde, number 9 in the list.

@@ -64,6 +64,8 @@ Use these prompts to make reading time a conversation:
 
 Phil Corbett is the author and illustrator of the Ghost and Toast graphic novels and of the Kitty Quest series.
 
+Read more on our [Phil Corbett author page](/phil-corbett/).
+
 ## If your child likes this, try…
 
 - [Bunny vs Monkey: Day of the Heroes](/bunny-vs-monkey-day-of-the-heroes/) by Jamie Smart, number 3 in the list.

@@ -9,6 +9,8 @@ import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from books_data import BOOKS, LIST_DATE  # noqa: E402
+from authors_data import AUTHORS  # noqa: E402
+AUTHOR_SLUG = {a['name']: a['slug'] for a in AUTHORS}
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))
 BY_SLUG = {b["slug"]: b for b in BOOKS}
@@ -94,7 +96,7 @@ def body(b):
     out += ["## Reading and talking tips", "Use these prompts to make reading time a conversation:", "\n".join(f"- {x}" for x in b["tips"])]
     if b.get("irish"):
         out += ["## An Irish connection", f"This title has an Irish link through its author, setting or subject, which makes it a good fit for our collection of [Irish children’s authors and illustrators](/irish-childrens-authors/)."]
-    out += [f"## About {b['author']}", b["author_bio"]]
+    out += [f"## About {b['author']}", b["author_bio"], f"Read more on our [{b['author']} author page](/{AUTHOR_SLUG[b['author']]}/)."]
     nxt = []
     for s in b["next"]:
         o = BY_SLUG[s]
@@ -133,7 +135,7 @@ nav: /top-20-childrens-books/
 image: banner-top-20-childrens-books
 alt: A winners’ podium with the number one in the centre, a star above it and stacks of books on either side
 lede: The books children are asking for this month, from Wimpy Kid and Gruffalo Granny to Irish favourites. Tap any title for a full guide.
-related: books-by-age,best-christmas-books-for-children,irish-childrens-authors
+related: childrens-book-authors,books-by-age,best-christmas-books-for-children,irish-childrens-authors
 updated: 2026-11-07
 ---
 <p>This page follows the bestselling children’s books in the list we checked on {LIST_DATE}. For every title you will find a plain-English summary, an age guide, tips for reading it together and suggestions for what to read next. We do not reproduce book covers, so the pictures here are our own illustrations.</p>
@@ -142,6 +144,8 @@ updated: 2026-11-07
 <ol class="bookgrid">
 {cards}
 </ol>
+
+<p><a href="/childrens-book-authors/">Meet the authors behind the top 20</a>, with a short biography of each.</p>
 
 <h2>How to use this list</h2>
 <ul>
@@ -164,7 +168,7 @@ def home_block():
     return f"""<!--TOP20-->
 <section class="band"><div class="wrap">
 <h2>Top 20 children’s books right now</h2>
-<p class="intro">The books children are asking for this month. Tap a title for the plot, the age it suits and what to read next. <a href="/top-20-childrens-books/">See the full list</a>.</p>
+<p class="intro">The books children are asking for this month. Tap a title for the plot, the age it suits and what to read next. <a href="/top-20-childrens-books/">See the full list</a> or <a href="/childrens-book-authors/">meet the authors</a>.</p>
 <ol class="bookgrid">
 {cards}
 </ol>

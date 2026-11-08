@@ -60,6 +60,8 @@ Use these prompts to make reading time a conversation:
 
 Rick Riordan is the American author of the Percy Jackson series, which brought Greek mythology to a huge new audience of young readers.
 
+Read more on our [Rick Riordan author page](/rick-riordan/).
+
 ## If your child likes this, try…
 
 - [The Danger Game](/the-danger-game/) by Tom Fletcher, number 19 in the list.

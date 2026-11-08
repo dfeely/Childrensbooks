@@ -62,6 +62,8 @@ Use these prompts to make reading time a conversation:
 
 Katie Kirby writes the Lottie Brooks series of comic diaries.
 
+Read more on our [Katie Kirby author page](/katie-kirby/).
+
 ## If your child likes this, try…
 
 - [The Seriously Epic Holiday of Lottie Brooks](/the-seriously-epic-holiday-of-lottie-brooks/) by Katie Kirby, number 11 in the list.

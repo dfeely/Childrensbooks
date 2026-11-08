@@ -40,6 +40,7 @@ FOOT_AGES = [
     ("Middle grade (9–12)", "/books-for-middle-grade-readers/"),
 ]
 FOOT_IRISH = [
+    ("Children’s book authors", "/childrens-book-authors/"),
     ("Irish children’s authors", "/irish-childrens-authors/"),
     ("Irish-language books", "/irish-language-childrens-books/"),
     ("Irish myths and legends", "/irish-myths-and-legends-for-children/"),
@@ -201,7 +202,7 @@ def head(title, desc, url, kind, noindex=False):
 <link rel="preload" href="/assets/fonts/young-serif-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="/assets/fonts/atkinson-hyperlegible-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="/assets/css/style.css">
-<meta property="og:type" content="{'article' if kind in ('age', 'guide', 'topic', 'book') else 'website'}">
+<meta property="og:type" content="{'article' if kind in ('age', 'guide', 'topic', 'book') else 'profile' if kind == 'author' else 'website'}">
 <meta property="og:site_name" content="{NAME}">
 <meta property="og:locale" content="{LOCALE}">
 <meta property="og:title" content="{t}">
@@ -270,6 +271,19 @@ def build_page(meta, pages, outputs):
             if meta.get("book_series"):
                 bk["isPartOf"] = {"@type": "BookSeries", "name": meta["book_series"]}
             schema.append(bk)
+        elif kind == "author":
+            pr = {"@type": "Person", "@id": url + "#person", "name": meta["person_name"], "url": url, "jobTitle": meta["person_role"],
+                  "description": meta["person_description"], "image": f"{SITE}/assets/img/{meta['image']}.svg"}
+            if meta.get("person_nat"):
+                pr["nationality"] = meta["person_nat"]
+            if meta.get("person_born"):
+                pr["birthDate"] = meta["person_born"]
+            if meta.get("person_works"):
+                pr["knowsAbout"] = "children's books"
+                pr["author"] = [{"@type": "Book", "name": t} for t in meta["person_works"].split("|")]
+            schema.append({"@context": "https://schema.org", "@type": "ProfilePage", "name": meta["h1"], "url": url,
+                           "description": meta["description"], "inLanguage": "en-IE", "dateModified": meta.get("updated", TODAY),
+                           "isPartOf": {"@id": SITE + "/#website"}, "mainEntity": pr})
         elif kind in ("age", "guide", "topic"):
             w, h = svg_size(meta["image"])
             schema.append({"@context": "https://schema.org", "@type": "Article", "headline": meta["h1"],

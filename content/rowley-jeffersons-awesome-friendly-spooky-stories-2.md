@@ -64,6 +64,8 @@ Use these prompts to make reading time a conversation:
 
 Jeff Kinney created Diary of a Wimpy Kid. The Awesome Friendly Kid books are Rowley’s own series, told in his upbeat voice.
 
+Read more on our [Jeff Kinney author page](/jeff-kinney/).
+
 ## If your child likes this, try…
 
 - [Diary of a Wimpy Kid: Fight or Flight](/diary-of-a-wimpy-kid-fight-or-flight/) by Jeff Kinney, number 1 in the list.

@@ -68,6 +68,8 @@ This title has an Irish link through its author, setting or subject, which makes
 
 Evanne Ní Chuilinn is an Irish writer whose books include The Great Irish Book of Gaelic Games. Squad Girls is the first book in a new series from Gill Children’s.
 
+Read more on our [Evanne Ní Chuilinn author page](/evanne-ni-chuilinn/).
+
 ## If your child likes this, try…
 
 - [Milly McCarthy and the Doggy Daycare Drama](/milly-mccarthy-and-the-doggy-daycare-drama/) by Leona Forde, number 9 in the list.

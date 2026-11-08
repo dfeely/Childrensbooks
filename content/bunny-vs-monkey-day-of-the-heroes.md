@@ -60,6 +60,8 @@ Use these prompts to make reading time a conversation:
 
 Jamie Smart is a British cartoonist whose Bunny vs Monkey strips first appeared in The Phoenix, the weekly children’s comic, before being collected into books.
 
+Read more on our [Jamie Smart author page](/jamie-smart/).
+
 ## If your child likes this, try…
 
 - [Donut Squad: Destiny of the Donuts!](/donut-squad-destiny-of-the-donuts/) by Neill Cameron, number 7 in the list.

@@ -62,6 +62,8 @@ Use these prompts to make reading time a conversation:
 
 Dav Pilkey is the American creator of Captain Underpants and Dog Man. Scholastic says the Dog Man series has sold more than 70 million copies in 50 languages.
 
+Read more on our [Dav Pilkey author page](/dav-pilkey/).
+
 ## If your child likes this, try…
 
 - [Bunny vs Monkey: Day of the Heroes](/bunny-vs-monkey-day-of-the-heroes/) by Jamie Smart, number 3 in the list.

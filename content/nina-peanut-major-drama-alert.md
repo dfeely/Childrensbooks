@@ -68,6 +68,8 @@ This title has an Irish link through its author, setting or subject, which makes
 
 Sarah Bowie is an Irish illustrator, author and cartoonist who lives in Waterford. The Nina Peanut series is published by Scholastic.
 
+Read more on our [Sarah Bowie author page](/sarah-bowie/).
+
 ## If your child likes this, try…
 
 - [The Catastrophic Friendship Fails of Lottie Brooks](/the-catastrophic-friendship-fails-of-lottie-brooks/) by Katie Kirby, number 16 in the list.

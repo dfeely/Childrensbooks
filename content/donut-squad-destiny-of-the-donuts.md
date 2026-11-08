@@ -62,6 +62,8 @@ Use these prompts to make reading time a conversation:
 
 Neill Cameron is a British comics creator known for his work in The Phoenix. The first Donut Squad book, Take Over the World, was listed by its publisher as shortlisted for Waterstones Book of the Year 2025.
 
+Read more on our [Neill Cameron author page](/neill-cameron/).
+
 ## If your child likes this, try…
 
 - [Bunny vs Monkey: Day of the Heroes](/bunny-vs-monkey-day-of-the-heroes/) by Jamie Smart, number 3 in the list.

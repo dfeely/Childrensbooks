@@ -64,6 +64,8 @@ Use these prompts to make reading time a conversation:
 
 Jeff Kinney is the American author and cartoonist who created Diary of a Wimpy Kid. The series, told in the voice of a self-centred but likeable schoolboy, has been one of the best-known children’s series in the world for many years.
 
+Read more on our [Jeff Kinney author page](/jeff-kinney/).
+
 ## If your child likes this, try…
 
 - [Tom Gates Is Not Famous (Yet)](/tom-gates-is-not-famous-yet/) by Liz Pichon, number 12 in the list.

@@ -68,6 +68,8 @@ This title has an Irish link through its author, setting or subject, which makes
 
 Matt Oldfield writes the Ultimate Football Heroes and Classic Football Heroes books for young readers.
 
+Read more on our [Matt Oldfield author page](/matt-oldfield/).
+
 ## If your child likes this, try…
 
 - [Diary of a Wimpy Kid: Fight or Flight](/diary-of-a-wimpy-kid-fight-or-flight/) by Jeff Kinney, number 1 in the list.

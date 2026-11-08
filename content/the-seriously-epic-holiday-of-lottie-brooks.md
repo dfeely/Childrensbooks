@@ -60,6 +60,8 @@ Use these prompts to make reading time a conversation:
 
 Katie Kirby is the author of the Lottie Brooks series, comic diaries about tween life.
 
+Read more on our [Katie Kirby author page](/katie-kirby/).
+
 ## If your child likes this, try…
 
 - [Lottie Brooks’s Twelve Disasters of Christmas](/lottie-brookss-twelve-disasters-of-christmas/) by Katie Kirby, number 4 in the list.

@@ -66,6 +66,8 @@ Use these prompts to make reading time a conversation:
 
 Julia Donaldson is a British writer who served as Children’s Laureate from 2011 to 2013. The Gruffalo, illustrated by Axel Scheffler, was first published in 1999 and is one of the best-loved picture books of its generation.
 
+Read more on our [Julia Donaldson author page](/julia-donaldson/).
+
 ## If your child likes this, try…
 
 - [Rabbit and Bear: The Bog of Frogs](/rabbit-and-bear-the-bog-of-frogs/) by Julian Gough, number 14 in the list.

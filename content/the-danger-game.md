@@ -66,6 +66,8 @@ Use these prompts to make reading time a conversation:
 
 Tom Fletcher is a British author and musician whose children’s books include The Christmasaurus.
 
+Read more on our [Tom Fletcher author page](/tom-fletcher/).
+
 ## If your child likes this, try…
 
 - [Camp Half-Blood: The Wild Zone](/camp-half-blood-the-wild-zone/) by Rick Riordan, number 13 in the list.

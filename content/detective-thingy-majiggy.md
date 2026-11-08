@@ -66,6 +66,8 @@ This title has an Irish link through its author, setting or subject, which makes
 
 Cecelia Ahern is an Irish author best known for adult novels such as P.S. I Love You. Detective Thingy Majiggy marks the start of her series for young readers.
 
+Read more on our [Cecelia Ahern author page](/cecelia-ahern/).
+
 ## If your child likes this, try…
 
 - [Rabbit and Bear: The Bog of Frogs](/rabbit-and-bear-the-bog-of-frogs/) by Julian Gough, number 14 in the list.

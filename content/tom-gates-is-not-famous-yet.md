@@ -62,6 +62,8 @@ Use these prompts to make reading time a conversation:
 
 Liz Pichon writes and illustrates the Tom Gates series, which began in 2011 with The Brilliant World of Tom Gates.
 
+Read more on our [Liz Pichon author page](/liz-pichon/).
+
 ## If your child likes this, try…
 
 - [Diary of a Wimpy Kid: Fight or Flight](/diary-of-a-wimpy-kid-fight-or-flight/) by Jeff Kinney, number 1 in the list.

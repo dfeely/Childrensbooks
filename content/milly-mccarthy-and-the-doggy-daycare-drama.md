@@ -64,6 +64,8 @@ This title has an Irish link through its author, setting or subject, which makes
 
 Leona Forde is a Cork-based author. Her Milly McCarthy series is published by Gill Children’s.
 
+Read more on our [Leona Forde author page](/leona-forde/).
+
 ## If your child likes this, try…
 
 - [Disaster Dad: Animal Antics](/disaster-dad-animal-antics/) by Donncha O’Callaghan, number 5 in the list.

@@ -66,6 +66,8 @@ This title has an Irish link through its author, setting or subject, which makes
 
 Julian Gough is an Irish author. The Rabbit and Bear series is illustrated by Jim Field.
 
+Read more on our [Julian Gough author page](/julian-gough/).
+
 ## If your child likes this, try…
 
 - [Gruffalo Granny](/gruffalo-granny/) by Julia Donaldson, number 2 in the list.

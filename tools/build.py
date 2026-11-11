@@ -190,6 +190,13 @@ def head(title, desc, url, kind, noindex=False):
     return f"""<!doctype html>
 <html lang="en-IE">
 <head>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){{w[l]=w[l]||[];w[l].push({{'gtm.start':
+new Date().getTime(),event:'gtm.js'}});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+}})(window,document,'script','dataLayer','GTM-KJPCQM25');</script>
+<!-- End Google Tag Manager -->
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{t}</title>
@@ -305,7 +312,7 @@ def build_page(meta, pages, outputs):
                        "itemListElement": [{"@type": "ListItem", "position": i + 1, "name": plain(b)} for i, b in enumerate(info["books"])]})
 
     out = head(meta["title"], meta["description"], url, kind)
-    out += "\n".join(jsonld(s) for s in schema) + "\n</head>\n<body>\n"
+    out += "\n".join(jsonld(s) for s in schema) + "\n</head>\n<body>\n<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-KJPCQM25\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->\n"
     current = meta.get("nav", "")
     out += header(current) + '\n<main id="main">\n'
 
@@ -360,7 +367,7 @@ def main():
             fh.write(content)
 
     nf = head("Page not found | " + NAME, "This page could not be found.", SITE + "/404.html", "page", noindex=True)
-    nf += "</head>\n<body>\n" + header("") + NOT_FOUND + footer() + "\n</body>\n</html>\n"
+    nf += "</head>\n<body>\n<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-KJPCQM25\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->\n" + header("") + NOT_FOUND + footer() + "\n</body>\n</html>\n"
     open(os.path.join(ROOT, "404.html"), "w", encoding="utf-8").write(nf)
 
     urls = []

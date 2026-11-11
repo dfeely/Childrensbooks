@@ -40,6 +40,7 @@ FOOT_AGES = [
     ("Middle grade (9–12)", "/books-for-middle-grade-readers/"),
 ]
 FOOT_IRISH = [
+    ("Best children’s books of all time", "/best-childrens-books-of-all-time/"),
     ("Children’s book authors", "/childrens-book-authors/"),
     ("Irish children’s authors", "/irish-childrens-authors/"),
     ("Irish-language books", "/irish-language-childrens-books/"),

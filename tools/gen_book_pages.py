@@ -145,7 +145,7 @@ updated: 2026-11-07
 {cards}
 </ol>
 
-<p><a href="/childrens-book-authors/">Meet the authors behind the top 20</a>, with a short biography of each.</p>
+<p><a href="/childrens-book-authors/">Meet the authors behind the top 20</a>, with a short biography of each. Looking for the classics? See the <a href="/best-childrens-books-of-all-time/">20 best children’s books of all time</a>.</p>
 
 <h2>How to use this list</h2>
 <ul>

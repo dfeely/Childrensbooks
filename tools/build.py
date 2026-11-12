@@ -261,7 +261,7 @@ def build_page(meta, pages, outputs):
                   "description": meta["description"], "image": f"{SITE}/assets/img/{meta['image']}.svg",
                   "author": {"@type": "Person", "name": meta["book_author"]}, "genre": meta["book_genre"],
                                     "audience": {"@type": "PeopleAudience", "suggestedMinAge": int(meta["book_agemin"]), "suggestedMaxAge": int(meta["book_agemax"])}}
-            fm = meta["book_format"].lower()
+            fm = meta.get("book_format", "").lower()
             if "hardback" in fm:
                 bk["bookFormat"] = "https://schema.org/Hardcover"
             elif "paperback" in fm:

@@ -18,7 +18,7 @@ person_born: 1977
 person_description: The cartoonist behind Donut Squad and Mega Robo Bros.
 person_works: Donut Squad: Destiny of the Donuts!
 ---
-**Neill Cameron** is a cartoonist and comic writer. The cartoonist behind Donut Squad and Mega Robo Bros. This page is a short guide for parents, teachers and young readers: who they are, which of their books are in the current top 20 and where to start.
+**Neill Cameron** is a cartoonist and comic writer. The cartoonist behind Donut Squad and Mega Robo Bros. This page is a short guide for parents, teachers and young readers: who they are, which of their books we recommend and where to start.
 
 ## About Neill Cameron
 

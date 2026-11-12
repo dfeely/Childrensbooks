@@ -18,7 +18,7 @@ person_born: 1964
 person_description: The American author of Percy Jackson and the Olympians.
 person_works: Camp Half-Blood: The Wild Zone
 ---
-**Rick Riordan** is an author. The American author of Percy Jackson and the Olympians. This page is a short guide for parents, teachers and young readers: who they are, which of their books are in the current top 20 and where to start.
+**Rick Riordan** is an author. The American author of Percy Jackson and the Olympians. This page is a short guide for parents, teachers and young readers: who they are, which of their books we recommend and where to start.
 
 ## About Rick Riordan
 

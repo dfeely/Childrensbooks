@@ -16,7 +16,7 @@ person_role: Children’s author
 person_description: A Bristol author who writes football books for children.
 person_works: Classic Football Heroes: Best
 ---
-**Matt Oldfield** is a children’s author. A Bristol author who writes football books for children. This page is a short guide for parents, teachers and young readers: who they are, which of their books are in the current top 20 and where to start.
+**Matt Oldfield** is a children’s author. A Bristol author who writes football books for children. This page is a short guide for parents, teachers and young readers: who they are, which of their books we recommend and where to start.
 
 ## About Matt Oldfield
 

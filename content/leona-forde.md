@@ -18,7 +18,7 @@ person_born: 1979
 person_description: A Cork teacher who writes the Milly McCarthy books.
 person_works: Milly McCarthy and the Doggy Daycare Drama
 ---
-**Leona Forde** is an author and teacher. A Cork teacher who writes the Milly McCarthy books. This page is a short guide for parents, teachers and young readers: who they are, which of their books are in the current top 20 and where to start.
+**Leona Forde** is an author and teacher. A Cork teacher who writes the Milly McCarthy books. This page is a short guide for parents, teachers and young readers: who they are, which of their books we recommend and where to start.
 
 ## About Leona Forde
 

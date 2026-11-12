@@ -16,7 +16,7 @@ person_role: Author and illustrator
 person_description: The writer and illustrator behind the Lottie Brooks series.
 person_works: Lottie Brooks’s Twelve Disasters of Christmas|The Seriously Epic Holiday of Lottie Brooks|The Catastrophic Friendship Fails of Lottie Brooks
 ---
-**Katie Kirby** is an author and illustrator. The writer and illustrator behind the Lottie Brooks series. This page is a short guide for parents, teachers and young readers: who they are, which of their books are in the current top 20 and where to start.
+**Katie Kirby** is an author and illustrator. The writer and illustrator behind the Lottie Brooks series. This page is a short guide for parents, teachers and young readers: who they are, which of their books we recommend and where to start.
 
 ## About Katie Kirby
 

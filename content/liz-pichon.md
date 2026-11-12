@@ -17,7 +17,7 @@ person_nat: British
 person_description: The author and illustrator of the Tom Gates series.
 person_works: Tom Gates Is Not Famous (Yet)
 ---
-**Liz Pichon** is an author and illustrator. The author and illustrator of the Tom Gates series. This page is a short guide for parents, teachers and young readers: who they are, which of their books are in the current top 20 and where to start.
+**Liz Pichon** is an author and illustrator. The author and illustrator of the Tom Gates series. This page is a short guide for parents, teachers and young readers: who they are, which of their books we recommend and where to start.
 
 ## About Liz Pichon
 

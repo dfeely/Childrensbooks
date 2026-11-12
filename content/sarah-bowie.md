@@ -17,7 +17,7 @@ person_nat: Irish
 person_description: A Waterford author and illustrator who teaches comics-making.
 person_works: Nina Peanut: Major Drama Alert
 ---
-**Sarah Bowie** is an author, illustrator and comics teacher. A Waterford author and illustrator who teaches comics-making. This page is a short guide for parents, teachers and young readers: who they are, which of their books are in the current top 20 and where to start.
+**Sarah Bowie** is an author, illustrator and comics teacher. A Waterford author and illustrator who teaches comics-making. This page is a short guide for parents, teachers and young readers: who they are, which of their books we recommend and where to start.
 
 ## About Sarah Bowie
 

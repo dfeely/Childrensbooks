@@ -17,7 +17,7 @@ person_nat: Irish
 person_description: A former Munster and Ireland rugby player who writes the Disaster Dad books.
 person_works: Disaster Dad: Animal Antics
 ---
-**Donncha O’Callaghan** is a former rugby international and author. A former Munster and Ireland rugby player who writes the Disaster Dad books. This page is a short guide for parents, teachers and young readers: who they are, which of their books are in the current top 20 and where to start.
+**Donncha O’Callaghan** is a former rugby international and author. A former Munster and Ireland rugby player who writes the Disaster Dad books. This page is a short guide for parents, teachers and young readers: who they are, which of their books we recommend and where to start.
 
 ## About Donncha O’Callaghan
 

@@ -18,7 +18,7 @@ person_born: 1981
 person_description: An Irish sports broadcaster who also writes for young readers.
 person_works: Squad Girls
 ---
-**Evanne Ní Chuilinn** is a broadcaster and author. An Irish sports broadcaster who also writes for young readers. This page is a short guide for parents, teachers and young readers: who they are, which of their books are in the current top 20 and where to start.
+**Evanne Ní Chuilinn** is a broadcaster and author. An Irish sports broadcaster who also writes for young readers. This page is a short guide for parents, teachers and young readers: who they are, which of their books we recommend and where to start.
 
 ## About Evanne Ní Chuilinn
 

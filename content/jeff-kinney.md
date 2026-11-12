@@ -8,7 +8,7 @@ parent: childrens-book-authors
 image: author-jeff-kinney
 alt: A cartoon writer at a desk beside a sheet of ruled paper, a notebook and a pencil
 lede: The American cartoonist behind the Diary of a Wimpy Kid series.
-related: diary-of-a-wimpy-kid-fight-or-flight,rowley-jeffersons-awesome-friendly-spooky-stories-2,childrens-book-authors,top-20-childrens-books
+related: diary-of-a-wimpy-kid-fight-or-flight,rowley-jeffersons-awesome-friendly-spooky-stories-2,diary-of-a-wimpy-kid,childrens-book-authors,best-childrens-books-of-all-time
 updated: 2026-11-08
 crumb: Jeff Kinney
 person_name: Jeff Kinney
@@ -16,9 +16,9 @@ person_role: Author and cartoonist
 person_nat: American
 person_born: 1971
 person_description: The American cartoonist behind the Diary of a Wimpy Kid series.
-person_works: Diary of a Wimpy Kid: Fight or Flight|Rowley Jefferson’s Awesome Friendly Spooky Stories 2
+person_works: Diary of a Wimpy Kid: Fight or Flight|Rowley Jefferson’s Awesome Friendly Spooky Stories 2|Diary of a Wimpy Kid
 ---
-**Jeff Kinney** is an author and cartoonist. The American cartoonist behind the Diary of a Wimpy Kid series. This page is a short guide for parents, teachers and young readers: who they are, which of their books are in the current top 20 and where to start.
+**Jeff Kinney** is an author and cartoonist. The American cartoonist behind the Diary of a Wimpy Kid series. This page is a short guide for parents, teachers and young readers: who they are, which of their books we recommend and where to start.
 
 ## About Jeff Kinney
 
@@ -32,6 +32,10 @@ Kinney has also written spin-off books about Greg’s best friend, Rowley Jeffer
 
 - [Diary of a Wimpy Kid: Fight or Flight](/diary-of-a-wimpy-kid-fight-or-flight/): number 1 in the list we checked on 7 November 2026. Greg Heffley’s notes on the school bullies end up in the wrong hands, and now everyone wants to know who wrote them.
 - [Rowley Jefferson’s Awesome Friendly Spooky Stories 2](/rowley-jeffersons-awesome-friendly-spooky-stories-2/): number 6 in the list we checked on 7 November 2026. Rowley, Greg’s best friend from the Wimpy Kid books, tells a second set of spooky stories that are meant to make you laugh more than scream.
+
+## Jeff Kinney’s books in our all-time classics list
+
+- [Diary of a Wimpy Kid](/diary-of-a-wimpy-kid/) (2007): number 20 in our [best children’s books of all time](/best-childrens-books-of-all-time/). An illustrated journal of a boy’s first year at middle school.
 
 ## Other well-known books and work
 

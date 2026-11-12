@@ -17,7 +17,7 @@ person_nat: Irish
 person_description: The Irish writer of the Rabbit and Bear picture books.
 person_works: Rabbit and Bear: The Bog of Frogs
 ---
-**Julian Gough** is a writer. The Irish writer of the Rabbit and Bear picture books. This page is a short guide for parents, teachers and young readers: who they are, which of their books are in the current top 20 and where to start.
+**Julian Gough** is a writer. The Irish writer of the Rabbit and Bear picture books. This page is a short guide for parents, teachers and young readers: who they are, which of their books we recommend and where to start.
 
 ## About Julian Gough
 

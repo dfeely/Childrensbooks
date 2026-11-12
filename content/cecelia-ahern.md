@@ -17,7 +17,7 @@ person_nat: Irish
 person_description: The Irish novelist behind P.S. I Love You, now writing for children.
 person_works: Detective Thingy Majiggy
 ---
-**Cecelia Ahern** is a novelist and children’s author. The Irish novelist behind P.S. I Love You, now writing for children. This page is a short guide for parents, teachers and young readers: who they are, which of their books are in the current top 20 and where to start.
+**Cecelia Ahern** is a novelist and children’s author. The Irish novelist behind P.S. I Love You, now writing for children. This page is a short guide for parents, teachers and young readers: who they are, which of their books we recommend and where to start.
 
 ## About Cecelia Ahern
 

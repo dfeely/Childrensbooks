@@ -16,7 +16,7 @@ person_role: Comics creator, writer and illustrator
 person_description: The comics creator behind Ghost and Toast and Kitty Quest.
 person_works: Ghost and Toast: Slice to Meet You!
 ---
-**Phil Corbett** is a comics creator, writer and illustrator. The comics creator behind Ghost and Toast and Kitty Quest. This page is a short guide for parents, teachers and young readers: who they are, which of their books are in the current top 20 and where to start.
+**Phil Corbett** is a comics creator, writer and illustrator. The comics creator behind Ghost and Toast and Kitty Quest. This page is a short guide for parents, teachers and young readers: who they are, which of their books we recommend and where to start.
 
 ## About Phil Corbett
 

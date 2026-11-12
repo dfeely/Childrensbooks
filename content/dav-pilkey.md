@@ -17,7 +17,7 @@ person_nat: American
 person_description: The creator of Dog Man and Captain Underpants.
 person_works: Dog Man: 10th Birthday Edition
 ---
-**Dav Pilkey** is an author and illustrator. The creator of Dog Man and Captain Underpants. This page is a short guide for parents, teachers and young readers: who they are, which of their books are in the current top 20 and where to start.
+**Dav Pilkey** is an author and illustrator. The creator of Dog Man and Captain Underpants. This page is a short guide for parents, teachers and young readers: who they are, which of their books we recommend and where to start.
 
 ## About Dav Pilkey
 

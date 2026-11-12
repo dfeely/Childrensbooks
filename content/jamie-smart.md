@@ -16,7 +16,7 @@ person_role: Comic creator, author and illustrator
 person_description: The comic creator behind Bunny vs Monkey.
 person_works: Bunny vs Monkey: Day of the Heroes
 ---
-**Jamie Smart** is a comic creator, author and illustrator. The comic creator behind Bunny vs Monkey. This page is a short guide for parents, teachers and young readers: who they are, which of their books are in the current top 20 and where to start.
+**Jamie Smart** is a comic creator, author and illustrator. The comic creator behind Bunny vs Monkey. This page is a short guide for parents, teachers and young readers: who they are, which of their books we recommend and where to start.
 
 ## About Jamie Smart
 

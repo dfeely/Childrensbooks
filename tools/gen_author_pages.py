@@ -7,7 +7,9 @@ import os
 import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from authors_data import AUTHORS  # noqa: E402
+from authors_data import AUTHORS as TOP_AUTHORS  # noqa: E402
+from classics_data import CLASSICS, CLASSIC_AUTHORS  # noqa: E402
+AUTHORS = TOP_AUTHORS + CLASSIC_AUTHORS
 from books_data import BOOKS, LIST_DATE  # noqa: E402
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))
@@ -29,6 +31,10 @@ def books_of(a):
     return [b for b in BOOKS if b["author"] == a["name"]]
 
 
+def classics_of(a):
+    return [b for b in CLASSICS if b["author"] == a["name"]]
+
+
 def author_slug(name):
     for a in AUTHORS:
         if a["name"] == name:
@@ -38,6 +44,7 @@ def author_slug(name):
 
 def front(a):
     bs = books_of(a)
+    cs = classics_of(a)
     title = pick([f"{a['name']} | Books, Biography and Where to Start", f"{a['name']} | Books and Biography", a["name"]], 62)
     desc = pick([
         f"{a['name']}, {a['role'].lower()}: a short biography, their books in the current top 20, other well-known titles and where to start.",
@@ -46,9 +53,9 @@ def front(a):
     kv = {
         "title": title, "h1": a["name"], "short": a["name"], "description": desc, "kind": "author", "nav": "/" + HUB + "/",
         "parent": HUB, "image": a["image"], "alt": a["alt"], "lede": a["hook"],
-        "related": ",".join([b["slug"] for b in bs] + [HUB, "top-20-childrens-books"]), "updated": "2026-11-08", "crumb": a["name"],
+        "related": ",".join([b["slug"] for b in bs] + [b["slug"] for b in cs] + [HUB, "best-childrens-books-of-all-time" if cs else "top-20-childrens-books"]), "updated": "2026-11-08", "crumb": a["name"],
         "person_name": a["name"], "person_role": a["role"], "person_nat": a.get("nat", ""), "person_born": a.get("born", ""),
-        "person_description": a["hook"], "person_works": "|".join(b["title"] for b in bs),
+        "person_description": a["hook"], "person_works": "|".join(b["title"] for b in bs + cs),
     }
     return "\n".join(f"{k}: {v}" for k, v in kv.items() if v != "") + "\n---\n"
 
@@ -58,15 +65,23 @@ def body(a):
     bs = books_of(a)
     role = a["role"][0].lower() + a["role"][1:]
     art = "an" if role[0] in "aeiou" else "a"
-    out = [f"**{n}** is {art} {role}. {a['hook']} This page is a short guide for parents, teachers and young readers: who they are, which of their books are in the current top 20 and where to start."]
+    out = [f"**{n}** is {art} {role}. {a['hook']} This page is a short guide for parents, teachers and young readers: who they are, which of their books we recommend and where to start."]
     out += [f"## About {n}", *a["bio"]]
     li = "\n".join(f"- [{b['title']}](/{b['slug']}/): number {b['rank']} in the list we checked on {LIST_DATE}. {b['hook']}" for b in bs)
-    out += [f"## {n}’s books in the top 20", li]
+    if bs:
+        out += [f"## {n}’s books in the top 20", li]
+    cs = classics_of(a)
+    if cs:
+        cl = "\n".join(f"- [{b['title']}](/{b['slug']}/) ({b['year']}): number {b['rank']} in our [best children’s books of all time](/best-childrens-books-of-all-time/). {b['hook']}" for b in cs)
+        out += [f"## {n}’s books in our all-time classics list", cl]
     out += [f"## Other well-known books and work", "\n".join(f"- {x}" for x in a["other"])]
     if a["honours"]:
         out += ["## Awards and recognition", "\n".join(f"- {x}" for x in a["honours"])]
     out += ["## Where to start", a["start"]]
-    q1 = (f"Which books by {n} are in the top 20?", "; ".join(f"{b['title']} (number {b['rank']})" for b in bs) + f". See our [Top 20 children’s books](/top-20-childrens-books/) for the full list.")
+    if bs:
+        q1 = (f"Which books by {n} are in the top 20?", "; ".join(f"{b['title']} (number {b['rank']})" for b in bs) + f". See our [Top 20 children’s books](/top-20-childrens-books/) for the full list.")
+    else:
+        q1 = (f"Which books by {n} are on your all-time list?", "; ".join(f"{b['title']} (number {b['rank']})" for b in cs) + ". See our [best children’s books of all time](/best-childrens-books-of-all-time/).")
     q2 = (f"Where should I start with {n}?", a["start"])
     q3 = (f"Who is {n}?", a["bio"][0])
     out += [f"## Frequently asked questions about {n}", ":::faq\n" + "\n\n".join(f"### {q}\n{an}" for q, an in (q3, q1, q2)) + "\n:::"]
@@ -78,33 +93,47 @@ def body(a):
 
 
 def card(a):
-    bs = books_of(a)
+    bs = books_of(a) or classics_of(a)
     sub = ", ".join(b["title"] for b in bs[:2]) + (" and more" if len(bs) > 2 else "")
     return (f'<li class="bookcard"><a href="/{a["slug"]}/"><img src="/assets/img/{a["image"]}.svg" alt="" width="1200" height="400" loading="lazy" decoding="async">'
             f'<strong>{esc(a["name"])}</strong><span class="by">{esc(sub)}</span></a></li>')
 
 
+def md_link(t):
+    import re
+    return re.sub(r"\[([^\]]+)\]\(([^)]+)\)", r'<a href="\2">\1</a>', esc(t).replace('&quot;', '"'))
+
+
 def hub():
-    cards = "\n".join(card(a) for a in AUTHORS)
-    faq = [("Which authors are in the current top 20?", f"This page covers all {len(AUTHORS)} authors behind the top 20 children’s books we checked on {LIST_DATE}, from Jeff Kinney and Julia Donaldson to Irish writers such as Cecelia Ahern and Leona Forde."),
+    top = "\n".join(card(a) for a in TOP_AUTHORS)
+    cl_names = {b["author"] for b in CLASSICS}
+    classic_authors = [a for a in AUTHORS if a["name"] in cl_names]
+    cl = "\n".join(card(a) for a in classic_authors)
+    n = len(AUTHORS)
+    faq = [("Which authors are covered?", f"All {n} authors behind our [Top 20 children’s books](/top-20-childrens-books/) and our [best children’s books of all time](/best-childrens-books-of-all-time/), from Jeff Kinney and Julia Donaldson to Beatrix Potter, Roald Dahl and Irish writers such as Cecelia Ahern and Leona Forde."),
            ("Are the author pictures photographs?", "No. Every portrait is our own illustration of a generic writer at work. They are not likenesses of the real authors."),
-           ("Where do the biographies come from?", "From publisher biographies, reference works, interviews and authors’ own websites. Each author page links its sources, and we only include facts we could check.")]
-    faq_html = '<section class="faq"><h2>Frequently asked questions</h2>' + "".join(f"<h3>{esc(q)}</h3><p>{esc(a)}</p>" for q, a in faq) + "</section>"
-    return f"""title: Children’s Book Authors | Top 20 Author Guides
+           ("Where do the biographies come from?", "From publisher biographies, reference works, interviews and authors’ own websites. Dates and details can change, so check a publisher’s site for the latest.")]
+    faq_html = '<section class="faq"><h2>Frequently asked questions</h2>' + "".join(f"<h3>{esc(q)}</h3><p>{md_link(a)}</p>" for q, a in faq) + "</section>"
+    return f"""title: Children’s Book Authors | Biographies and Books
 h1: Children’s book authors
 short: Children’s book authors
-description: Meet the {len(AUTHORS)} authors behind the top 20 bestselling children’s books: short biographies, their books and where to start reading.
+description: Meet {n} children’s authors, from Roald Dahl and Beatrix Potter to today’s bestsellers: short biographies, their books and where to start reading.
 kind: hub
 nav: /{HUB}/
 image: banner-childrens-book-authors
 alt: Five cartoon writers at a long desk with an open book above them
-lede: Short guides to the writers and illustrators behind the books children are asking for right now.
-related: top-20-childrens-books,irish-childrens-authors,books-by-age
-updated: 2026-11-08
+lede: Short guides to the writers and illustrators behind the books children are asking for right now, and the classics they keep reading.
+related: top-20-childrens-books,best-childrens-books-of-all-time,irish-childrens-authors,books-by-age
+updated: 2026-11-12
 ---
-<p>Behind every bestseller is a writer with a story of their own. These pages give a short, fact-checked biography of each author in the top 20 children’s books, link to their books and suggest where to start. Our portraits are original illustrations, not photographs.</p>
+<p>Behind every favourite book is a writer with a story of their own. These pages give a short biography of each author, link to their books and suggest where to start. Our portraits are original illustrations, not photographs.</p>
+<h2>Authors of today’s top 20</h2>
 <ol class="bookgrid">
-{cards}
+{top}
+</ol>
+<h2>Authors of the all-time classics</h2>
+<ol class="bookgrid">
+{cl}
 </ol>
 {faq_html}
 """

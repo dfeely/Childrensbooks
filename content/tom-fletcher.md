@@ -16,7 +16,7 @@ person_role: Author and musician
 person_description: A founding member of McFly who writes bestselling children’s books.
 person_works: The Danger Game
 ---
-**Tom Fletcher** is an author and musician. A founding member of McFly who writes bestselling children’s books. This page is a short guide for parents, teachers and young readers: who they are, which of their books are in the current top 20 and where to start.
+**Tom Fletcher** is an author and musician. A founding member of McFly who writes bestselling children’s books. This page is a short guide for parents, teachers and young readers: who they are, which of their books we recommend and where to start.
 
 ## About Tom Fletcher
 

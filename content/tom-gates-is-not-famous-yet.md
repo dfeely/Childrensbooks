@@ -23,6 +23,8 @@ book_series: Tom Gates
 ---
 **Tom Gates Is Not Famous (Yet)** is a illustrated diary fiction title by Liz Pichon. In the children’s bestseller list we checked on 7 November 2026, it was number 12. This guide explains what the book is about, who it suits, how to talk about it and what to read next.
 
+<p class="buybox"><a class="btn" href="https://link.amazon/B09Ww4vBR" rel="sponsored nofollow noopener" target="_blank">Buy Tom Gates Is Not Famous (Yet) on Amazon</a><small>Affiliate link. As an Amazon Associate we may earn from qualifying purchases, at no extra cost to you.</small></p>
+
 ## What is Tom Gates Is Not Famous (Yet) about?
 
 Oakfield School is excited about a rumoured visit from a local theatre group that may bring a real celebrity. Tom writes a comedy with parts for his friends, but Marcus, who loves attention, becomes more difficult than usual.

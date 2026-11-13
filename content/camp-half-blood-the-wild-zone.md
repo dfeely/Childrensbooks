@@ -22,6 +22,8 @@ book_series: Camp Half-Blood (book 1)
 ---
 **Camp Half-Blood: The Wild Zone** is a mythological fantasy adventure title by Rick Riordan. In the children’s bestseller list we checked on 7 November 2026, it was number 13. This guide explains what the book is about, who it suits, how to talk about it and what to read next.
 
+<p class="buybox"><a class="btn" href="https://link.amazon/B06Dg0Aed" rel="sponsored nofollow noopener" target="_blank">Buy Camp Half-Blood: The Wild Zone on Amazon</a><small>Affiliate link. As an Amazon Associate we may earn from qualifying purchases, at no extra cost to you.</small></p>
+
 ## What is Camp Half-Blood: The Wild Zone about?
 
 The book is set during the autumn off-season at the Long Island demigod camp, when few campers are around. Four inexperienced demigods enter a restricted area called the Wild Zone, which wakes ancient dangers and exposes buried secrets. As campers start vanishing, the new heroes must fight monsters and curses and make hard choices while working out where they belong.

@@ -24,6 +24,8 @@ book_series: Classic Football Heroes (Midfield Generals)
 ---
 **Classic Football Heroes: Best** is a football biography title by Matt Oldfield. In the children’s bestseller list we checked on 7 November 2026, it was number 20. This guide explains what the book is about, who it suits, how to talk about it and what to read next.
 
+<p class="buybox"><a class="btn" href="https://link.amazon/B0fio89yl" rel="sponsored nofollow noopener" target="_blank">Buy Classic Football Heroes: Best on Amazon</a><small>Affiliate link. As an Amazon Associate we may earn from qualifying purchases, at no extra cost to you.</small></p>
+
 ## What is Classic Football Heroes: Best about?
 
 This is a children’s biography of George Best, the footballer from Belfast. It covers his early years, when he was overlooked for his small size, and his discovery by a Manchester United scout at 15. It follows his career as a midfielder and winger, including his time at Manchester United and his Ballon d’Or win.

@@ -23,6 +23,8 @@ book_series: Lottie Brooks (book 2)
 ---
 **The Catastrophic Friendship Fails of Lottie Brooks** is a comic diary fiction title by Katie Kirby. In the children’s bestseller list we checked on 7 November 2026, it was number 16. This guide explains what the book is about, who it suits, how to talk about it and what to read next.
 
+<p class="buybox"><a class="btn" href="https://link.amazon/B0grwwahL" rel="sponsored nofollow noopener" target="_blank">Buy The Catastrophic Friendship Fails of Lottie Brooks on Amazon</a><small>Affiliate link. As an Amazon Associate we may earn from qualifying purchases, at no extra cost to you.</small></p>
+
 ## What is The Catastrophic Friendship Fails of Lottie Brooks about?
 
 Lottie starts the spring term at secondary school determined to stop trying to win over a mean girl and to leave an old embarrassing nickname behind. She lands a lead role in the spring musical, which gives her a chance to impress her crush, but her friendship with her two best friends begins to unravel despite her efforts to hold them together.

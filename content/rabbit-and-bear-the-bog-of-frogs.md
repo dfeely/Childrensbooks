@@ -23,6 +23,8 @@ book_series: Rabbit and Bear (book 7)
 ---
 **Rabbit and Bear: The Bog of Frogs** is a illustrated animal adventure title by Julian Gough, illustrated by Jim Field. In the children’s bestseller list we checked on 7 November 2026, it was number 14. This guide explains what the book is about, who it suits, how to talk about it and what to read next.
 
+<p class="buybox"><a class="btn" href="https://link.amazon/B08xaGIJb" rel="sponsored nofollow noopener" target="_blank">Buy Rabbit and Bear: The Bog of Frogs on Amazon</a><small>Affiliate link. As an Amazon Associate we may earn from qualifying purchases, at no extra cost to you.</small></p>
+
 ## What is Rabbit and Bear: The Bog of Frogs about?
 
 Rabbit is wondering about the night sky: what are stars made of, and where do they go in the day? Bear suggests that Castor can answer with his telescope, but this leaves Rabbit feeling small in a very large world. Rabbit hopes that new friends in the Bog of Frogs can help him see things from a different angle.

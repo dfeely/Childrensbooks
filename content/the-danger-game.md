@@ -25,6 +25,8 @@ book_series: The Danger Gang (book 2)
 ---
 **The Danger Game** is a adventure title by Tom Fletcher, illustrated by Shane Devries. In the children’s bestseller list we checked on 7 November 2026, it was number 19. This guide explains what the book is about, who it suits, how to talk about it and what to read next.
 
+<p class="buybox"><a class="btn" href="https://link.amazon/B01OSjNbG" rel="sponsored nofollow noopener" target="_blank">Buy The Danger Game on Amazon</a><small>Affiliate link. As an Amazon Associate we may earn from qualifying purchases, at no extra cost to you.</small></p>
+
 ## What is The Danger Game about?
 
 Franky Brown finds a mysterious videogame in his garage, starts playing and gets pulled into it. His mum, an inventor, created the game, but it has turned dangerous. Franky’s friends in the Danger Gang, a group of eight kids with secret superpowers, must use their abilities to rescue him by getting through five levels, collecting five danger diamonds and defeating a final boss.

@@ -22,6 +22,8 @@ book_series: Lottie Brooks (book 9)
 ---
 **The Seriously Epic Holiday of Lottie Brooks** is a comic diary fiction title by Katie Kirby. In the children’s bestseller list we checked on 7 November 2026, it was number 11. This guide explains what the book is about, who it suits, how to talk about it and what to read next.
 
+<p class="buybox"><a class="btn" href="https://link.amazon/B001PghEv" rel="sponsored nofollow noopener" target="_blank">Buy The Seriously Epic Holiday of Lottie Brooks on Amazon</a><small>Affiliate link. As an Amazon Associate we may earn from qualifying purchases, at no extra cost to you.</small></p>
+
 ## What is The Seriously Epic Holiday of Lottie Brooks about?
 
 Lottie Brooks tells her story as a humorous diary. This time she goes on a family skiing holiday after her former friend Amber invites her along. Lottie has never skied before, and the trip involves learning to ski with old and new friends, trying fondue for the first time and a storyline about a banana that Lottie believes is significant to her future.

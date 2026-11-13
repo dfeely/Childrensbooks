@@ -23,6 +23,8 @@ book_series: Dog Man (book 1, anniversary edition)
 ---
 **Dog Man: 10th Birthday Edition** is a graphic novel title by Dav Pilkey. In the children’s bestseller list we checked on 7 November 2026, it was number 17. This guide explains what the book is about, who it suits, how to talk about it and what to read next.
 
+<p class="buybox"><a class="btn" href="https://link.amazon/B073hlkXT" rel="sponsored nofollow noopener" target="_blank">Buy Dog Man: 10th Birthday Edition on Amazon</a><small>Affiliate link. As an Amazon Associate we may earn from qualifying purchases, at no extra cost to you.</small></p>
+
 ## What is Dog Man: 10th Birthday Edition about?
 
 This is a paperback 10th birthday edition of the first Dog Man book, marked by a shiny foil cover. In the story, George and Harold, the heroes of the Captain Underpants books, create a comic about a hero who is part dog and part man. After a dog and a police officer are hurt by the villainous Petey the Cat, a surgery saves them both, and the result is Dog Man.

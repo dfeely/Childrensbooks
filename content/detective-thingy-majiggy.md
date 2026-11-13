@@ -23,6 +23,8 @@ book_series: Detective Thingy Majiggy (book 1)
 ---
 **Detective Thingy Majiggy** is a mystery title by Cecelia Ahern, illustrated by Katie Saunders. In the children’s bestseller list we checked on 7 November 2026, it was number 18. This guide explains what the book is about, who it suits, how to talk about it and what to read next.
 
+<p class="buybox"><a class="btn" href="https://link.amazon/B07b6C8gG" rel="sponsored nofollow noopener" target="_blank">Buy Detective Thingy Majiggy on Amazon</a><small>Affiliate link. As an Amazon Associate we may earn from qualifying purchases, at no extra cost to you.</small></p>
+
 ## What is Detective Thingy Majiggy about?
 
 Ten-year-old Mia moves into a new foster home with Detective Lucy. She has a special gift: she can talk to everyday objects, and they talk back. With their help she investigates mysteries, including how a fire started in her new classroom.

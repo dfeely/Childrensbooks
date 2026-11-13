@@ -24,6 +24,8 @@ book_series: Nina Peanut (book 4)
 ---
 **Nina Peanut: Major Drama Alert** is a illustrated school fiction title by Sarah Bowie. In the children’s bestseller list we checked on 7 November 2026, it was number 15. This guide explains what the book is about, who it suits, how to talk about it and what to read next.
 
+<p class="buybox"><a class="btn" href="https://link.amazon/B0iPoRJOp" rel="sponsored nofollow noopener" target="_blank">Buy Nina Peanut: Major Drama Alert on Amazon</a><small>Affiliate link. As an Amazon Associate we may earn from qualifying purchases, at no extra cost to you.</small></p>
+
 ## What is Nina Peanut: Major Drama Alert about?
 
 Nina is annoyed when her mum asks her to show a new boy, Ethan, around town. She remembers him as a childhood rival, but he is now older and, to her surprise, rather appealing. The school’s end-of-term production is Romeo and Juliet, and Nina wants the lead opposite him. Her rival, Megan, wants the same part, so the two compete to be the top drama student.

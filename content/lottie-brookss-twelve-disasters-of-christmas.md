@@ -24,6 +24,8 @@ book_series: Lottie Brooks (festive story collection)
 ---
 **Lottie Brooks’s Twelve Disasters of Christmas** is a festive short stories title by Katie Kirby. In the children’s bestseller list we checked on 7 November 2026, it was number 4. This guide explains what the book is about, who it suits, how to talk about it and what to read next.
 
+<p class="buybox"><a class="btn" href="https://link.amazon/B0iFBvnca" rel="sponsored nofollow noopener" target="_blank">Buy Lottie Brooks’s Twelve Disasters of Christmas on Amazon</a><small>Affiliate link. As an Amazon Associate we may earn from qualifying purchases, at no extra cost to you.</small></p>
+
 ## What is Lottie Brooks’s Twelve Disasters of Christmas about?
 
 This festive collection holds twelve Christmas stories, most of them centred on characters other than Lottie. The tales include a first Christmas, a prank that backfires, a child who becomes the star of a school show and a girl who helps her football team. Lottie also narrates her own most disastrous Christmas.

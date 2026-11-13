@@ -24,6 +24,8 @@ book_series: Ghost and Toast
 ---
 **Ghost and Toast: Slice to Meet You!** is a comic graphic novel title by Phil Corbett. In the children’s bestseller list we checked on 7 November 2026, it was number 10. This guide explains what the book is about, who it suits, how to talk about it and what to read next.
 
+<p class="buybox"><a class="btn" href="https://link.amazon/B0bzGcsb8" rel="sponsored nofollow noopener" target="_blank">Buy Ghost and Toast: Slice to Meet You! on Amazon</a><small>Affiliate link. As an Amazon Associate we may earn from qualifying purchases, at no extra cost to you.</small></p>
+
 ## What is Ghost and Toast: Slice to Meet You! about?
 
 Ghost arrives at a haunted mansion and meets Toast, a talking slice of bread. Ghost cannot remember his life before he became a ghost, so the pair team up to solve the mystery, though they keep getting sidetracked. Their adventures take in evil pastries, a ghost train, giant kittens and gingerbread houses.

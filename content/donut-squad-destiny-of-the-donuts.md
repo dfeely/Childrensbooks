@@ -23,6 +23,8 @@ book_series: Donut Squad (book 3)
 ---
 **Donut Squad: Destiny of the Donuts!** is a comic adventure title by Neill Cameron. In the children’s bestseller list we checked on 7 November 2026, it was number 7. This guide explains what the book is about, who it suits, how to talk about it and what to read next.
 
+<p class="buybox"><a class="btn" href="https://link.amazon/B03oLDH96" rel="sponsored nofollow noopener" target="_blank">Buy Donut Squad: Destiny of the Donuts! on Amazon</a><small>Affiliate link. As an Amazon Associate we may earn from qualifying purchases, at no extra cost to you.</small></p>
+
 ## What is Donut Squad: Destiny of the Donuts! about?
 
 This third book is an anthology of comic strips, activities and jokes from The Phoenix, the British weekly comic. Its main storyline, Destiny of the Donuts, imagines a future where smart health gadgets turn on people who eat unhealthy food. A long war follows, and the last humans travel back through time to change history.

@@ -22,6 +22,8 @@ book_series: Milly McCarthy
 ---
 **Milly McCarthy and the Doggy Daycare Drama** is a comic children’s fiction title by Leona Forde. In the children’s bestseller list we checked on 7 November 2026, it was number 9. This guide explains what the book is about, who it suits, how to talk about it and what to read next.
 
+<p class="buybox"><a class="btn" href="https://link.amazon/B0dt5fCMx" rel="sponsored nofollow noopener" target="_blank">Buy Milly McCarthy and the Doggy Daycare Drama on Amazon</a><small>Affiliate link. As an Amazon Associate we may earn from qualifying purchases, at no extra cost to you.</small></p>
+
 ## What is Milly McCarthy and the Doggy Daycare Drama about?
 
 Milly wants her own dog and sets out to prove she is responsible by starting a dog-walking business. The job grows into a doggy daycare when she ends up looking after a spotted Dalmatian, a clever poodle and a lost labradoodle.

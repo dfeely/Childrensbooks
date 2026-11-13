@@ -24,6 +24,8 @@ book_series: Squad Girls (book 1)
 ---
 **Squad Girls** is a sport and friendship fiction title by Evanne Ní Chuilinn. In the children’s bestseller list we checked on 7 November 2026, it was number 8. This guide explains what the book is about, who it suits, how to talk about it and what to read next.
 
+<p class="buybox"><a class="btn" href="https://link.amazon/B0i5oNZpp" rel="sponsored nofollow noopener" target="_blank">Buy Squad Girls on Amazon</a><small>Affiliate link. As an Amazon Associate we may earn from qualifying purchases, at no extra cost to you.</small></p>
+
 ## What is Squad Girls about?
 
 Squad Girls follows four friends, Tara, Ríona, Sam and Penny, as they juggle school, friendships and their passions for sport and dance. Between them they take on sprinting, swimming, Irish dancing and gymnastics.

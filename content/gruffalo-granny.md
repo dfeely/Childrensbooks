@@ -25,6 +25,8 @@ book_series: The Gruffalo family
 ---
 **Gruffalo Granny** is a rhyming picture book title by Julia Donaldson, illustrated by Axel Scheffler. In the children’s bestseller list we checked on 7 November 2026, it was number 2. This guide explains what the book is about, who it suits, how to talk about it and what to read next.
 
+<p class="buybox"><a class="btn" href="https://link.amazon/B0gPZWBoY" rel="sponsored nofollow noopener" target="_blank">Buy Gruffalo Granny on Amazon</a><small>Affiliate link. As an Amazon Associate we may earn from qualifying purchases, at no extra cost to you.</small></p>
+
 ## What is Gruffalo Granny about?
 
 The Gruffalo and his daughter are getting ready for a visit from Gruffalo Granny, and they have a menu in mind. Once again, the little brown mouse has to use his wits to stay off it.

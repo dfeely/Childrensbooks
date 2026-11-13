@@ -24,6 +24,8 @@ book_series: The Awesome Friendly Kid
 ---
 **Rowley Jefferson’s Awesome Friendly Spooky Stories 2** is a spooky comic stories title by Jeff Kinney. In the children’s bestseller list we checked on 7 November 2026, it was number 6. This guide explains what the book is about, who it suits, how to talk about it and what to read next.
 
+<p class="buybox"><a class="btn" href="https://link.amazon/B05w3kyZs" rel="sponsored nofollow noopener" target="_blank">Buy Rowley Jefferson’s Awesome Friendly Spooky Stories 2 on Amazon</a><small>Affiliate link. As an Amazon Associate we may earn from qualifying purchases, at no extra cost to you.</small></p>
+
 ## What is Rowley Jefferson’s Awesome Friendly Spooky Stories 2 about?
 
 Rowley Jefferson, the cheerful friend from the Diary of a Wimpy Kid books, narrates a collection of spooky stories. There are monsters, creepy twists and goofy scares, all in a playful tone designed to raise giggles rather than nightmares.

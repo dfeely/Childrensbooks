@@ -22,6 +22,8 @@ book_series: Bunny vs Monkey (Phoenix Comic books)
 ---
 **Bunny vs Monkey: Day of the Heroes** is a comic adventure title by Jamie Smart. In the children’s bestseller list we checked on 7 November 2026, it was number 3. This guide explains what the book is about, who it suits, how to talk about it and what to read next.
 
+<p class="buybox"><a class="btn" href="https://link.amazon/B07EQwwC6" rel="sponsored nofollow noopener" target="_blank">Buy Bunny vs Monkey: Day of the Heroes on Amazon</a><small>Affiliate link. As an Amazon Associate we may earn from qualifying purchases, at no extra cost to you.</small></p>
+
 ## What is Bunny vs Monkey: Day of the Heroes about?
 
 The Woods are in trouble. A greased pig needs rescuing, some of the residents are stuck in jelly, and a zombie invasion is spreading. Bunny and friends have to save the day, though their rivalry has a habit of getting in the way.

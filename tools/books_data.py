@@ -34,7 +34,7 @@ BOOKS = [
     ),
     dict(
         rank=2, slug="gruffalo-granny", image="book-gruffalo-granny",
-        title="Gruffalo Granny", author="Julia Donaldson", illustrator="Axel Scheffler", series="The Gruffalo family",
+        title="Gruffalo Granny", buy="https://link.amazon/B0gPZWBoY", author="Julia Donaldson", illustrator="Axel Scheffler", series="The Gruffalo family",
         publisher="Macmillan Children’s Books", published="2026-09-10", pages=40, isbn="9781035065516", fmt="Hardback picture book", genre="Rhyming picture book",
         age="3 to 7", agemin=3, agemax=7,
         hook="A new rhyming picture book from the creators of The Gruffalo, with a visit from a very special relative.",
@@ -58,7 +58,7 @@ BOOKS = [
     ),
     dict(
         rank=3, slug="bunny-vs-monkey-day-of-the-heroes", image="book-bunny-vs-monkey-day-of-the-heroes",
-        title="Bunny vs Monkey: Day of the Heroes", author="Jamie Smart", series="Bunny vs Monkey (Phoenix Comic books)",
+        title="Bunny vs Monkey: Day of the Heroes", buy="https://link.amazon/B07EQwwC6", author="Jamie Smart", series="Bunny vs Monkey (Phoenix Comic books)",
         publisher="David Fickling Books", published="", pages=0, isbn="9781788453912", fmt="Comic book", genre="Comic adventure",
         age="6 to 10 (suggested)", agemin=6, agemax=10,
         hook="The Woods need a hero, and a greased pig, a jelly disaster and a zombie invasion are all making things worse.",
@@ -82,7 +82,7 @@ BOOKS = [
     ),
     dict(
         rank=4, slug="lottie-brookss-twelve-disasters-of-christmas", image="book-lottie-brooks-twelve-disasters-of-christmas",
-        title="Lottie Brooks’s Twelve Disasters of Christmas", author="Katie Kirby", series="Lottie Brooks (festive story collection)",
+        title="Lottie Brooks’s Twelve Disasters of Christmas", buy="https://link.amazon/B0iFBvnca", author="Katie Kirby", series="Lottie Brooks (festive story collection)",
         publisher="Puffin", published="2026-10-08", pages=240, isbn="9780241769416", fmt="Hardback", genre="Festive short stories",
         age="9 to 12", agemin=9, agemax=12,
         hook="Twelve festive stories in which Christmas plans go wrong, with Lottie telling her own most disastrous one.",
@@ -106,7 +106,7 @@ BOOKS = [
     ),
     dict(
         rank=5, slug="disaster-dad-animal-antics", image="book-disaster-dad-animal-antics",
-        title="Disaster Dad: Animal Antics", author="Donncha O’Callaghan", series="Disaster Dad",
+        title="Disaster Dad: Animal Antics", buy="https://link.amazon/B05hvVVkE", author="Donncha O’Callaghan", series="Disaster Dad",
         publisher="Bonnier Books UK (Eriu)", published="2026-09-24", pages=0, isbn="", fmt="Hardback", genre="Comic family fiction",
         age="7 and up", agemin=7, agemax=12,
         hook="Dad’s class trip to a wildlife park turns into chaos when he tries to get a newborn giraffe named after him.",
@@ -131,7 +131,7 @@ BOOKS = [
     ),
     dict(
         rank=6, slug="rowley-jeffersons-awesome-friendly-spooky-stories-2", image="book-rowley-jeffersons-awesome-friendly-spooky-stories-2",
-        title="Rowley Jefferson’s Awesome Friendly Spooky Stories 2", author="Jeff Kinney", series="The Awesome Friendly Kid",
+        title="Rowley Jefferson’s Awesome Friendly Spooky Stories 2", buy="https://link.amazon/B05w3kyZs", author="Jeff Kinney", series="The Awesome Friendly Kid",
         publisher="Puffin", published="2026-08-11", pages=217, isbn="9780241820865", fmt="Hardback", genre="Spooky comic stories",
         age="7 to 11 (suggested)", agemin=7, agemax=11,
         hook="Rowley, Greg’s best friend from the Wimpy Kid books, tells a second set of spooky stories that are meant to make you laugh more than scream.",
@@ -155,7 +155,7 @@ BOOKS = [
     ),
     dict(
         rank=7, slug="donut-squad-destiny-of-the-donuts", image="book-donut-squad-destiny-of-the-donuts",
-        title="Donut Squad: Destiny of the Donuts!", author="Neill Cameron", series="Donut Squad (book 3)",
+        title="Donut Squad: Destiny of the Donuts!", buy="https://link.amazon/B03oLDH96", author="Neill Cameron", series="Donut Squad (book 3)",
         publisher="David Fickling Books", published="2026-09-10", pages=0, isbn="9781788453905", fmt="Comic anthology", genre="Comic adventure",
         age="6 to 11 (suggested)", agemin=6, agemax=11,
         hook="A war with the Bagels spans time itself as the Donut Squad travels back to change history.",
@@ -179,7 +179,7 @@ BOOKS = [
     ),
     dict(
         rank=8, slug="squad-girls", image="book-squad-girls",
-        title="Squad Girls", author="Evanne Ní Chuilinn", series="Squad Girls (book 1)",
+        title="Squad Girls", buy="https://link.amazon/B0i5oNZpp", author="Evanne Ní Chuilinn", series="Squad Girls (book 1)",
         publisher="Gill Children’s", published="2026-09-03", pages=232, isbn="9781804583951", fmt="Paperback", genre="Sport and friendship fiction",
         age="9+", agemin=9, agemax=13,
         hook="Four friends balance school, friendship, sport and dance in the first book of a new Irish series.",
@@ -204,7 +204,7 @@ BOOKS = [
     ),
     dict(
         rank=9, slug="milly-mccarthy-and-the-doggy-daycare-drama", image="book-milly-mccarthy-and-the-doggy-daycare-drama",
-        title="Milly McCarthy and the Doggy Daycare Drama", author="Leona Forde", series="Milly McCarthy",
+        title="Milly McCarthy and the Doggy Daycare Drama", buy="https://link.amazon/B0dt5fCMx", author="Leona Forde", series="Milly McCarthy",
         publisher="Gill Children’s", published="", pages=176, isbn="", fmt="Paperback", genre="Comic children’s fiction",
         age="7 to 10 (suggested)", agemin=7, agemax=10,
         hook="Milly wants her own dog, and a dog-walking business grows into chaotic doggy daycare.",
@@ -229,7 +229,7 @@ BOOKS = [
     ),
     dict(
         rank=10, slug="ghost-and-toast-slice-to-meet-you", image="book-ghost-and-toast-slice-to-meet-you",
-        title="Ghost and Toast: Slice to Meet You!", author="Phil Corbett", series="Ghost and Toast",
+        title="Ghost and Toast: Slice to Meet You!", buy="https://link.amazon/B0bzGcsb8", author="Phil Corbett", series="Ghost and Toast",
         publisher="Piccadilly Press", published="2026-09-10", pages=192, isbn="9781835875322", fmt="Paperback graphic novel", genre="Comic graphic novel",
         age="7 to 12", agemin=7, agemax=12,
         hook="A forgetful ghost and a talking slice of bread team up to solve a mystery in a haunted mansion, but evil pastries keep getting in the way.",
@@ -253,7 +253,7 @@ BOOKS = [
     ),
     dict(
         rank=11, slug="the-seriously-epic-holiday-of-lottie-brooks", image="book-the-seriously-epic-holiday-of-lottie-brooks",
-        title="The Seriously Epic Holiday of Lottie Brooks", author="Katie Kirby", series="Lottie Brooks (book 9)",
+        title="The Seriously Epic Holiday of Lottie Brooks", buy="https://link.amazon/B001PghEv", author="Katie Kirby", series="Lottie Brooks (book 9)",
         publisher="Puffin", published="2026", pages=0, isbn="", fmt="Paperback", genre="Comic diary fiction",
         age="9 to 12 (suggested)", agemin=9, agemax=12,
         hook="Lottie heads off on a family ski holiday with her old friends, new friends and a mystery banana she is sure is important.",
@@ -277,7 +277,7 @@ BOOKS = [
     ),
     dict(
         rank=12, slug="tom-gates-is-not-famous-yet", image="book-tom-gates-is-not-famous-yet",
-        title="Tom Gates Is Not Famous (Yet)", author="Liz Pichon", series="Tom Gates",
+        title="Tom Gates Is Not Famous (Yet)", buy="https://link.amazon/B09Ww4vBR", author="Liz Pichon", series="Tom Gates",
         publisher="Scholastic", published="2026-10-08", pages=256, isbn="", fmt="Hardback", genre="Illustrated diary fiction",
         age="7 to 12 (suggested)", agemin=7, agemax=12,
         hook="A rumoured celebrity visit has Oakfield School buzzing, and Tom writes a comedy with parts for his friends.",
@@ -301,7 +301,7 @@ BOOKS = [
     ),
     dict(
         rank=13, slug="camp-half-blood-the-wild-zone", image="book-camp-half-blood-the-wild-zone",
-        title="Camp Half-Blood: The Wild Zone", author="Rick Riordan", series="Camp Half-Blood (book 1)",
+        title="Camp Half-Blood: The Wild Zone", buy="https://link.amazon/B06Dg0Aed", author="Rick Riordan", series="Camp Half-Blood (book 1)",
         publisher="Penguin Random House", published="2026-09-29", pages=0, isbn="", fmt="Hardback", genre="Mythological fantasy adventure",
         age="9 to 13 (suggested)", agemin=9, agemax=13,
         hook="Four new demigods enter a restricted part of the camp, and campers start disappearing.",
@@ -325,7 +325,7 @@ BOOKS = [
     ),
     dict(
         rank=14, slug="rabbit-and-bear-the-bog-of-frogs", image="book-rabbit-and-bear-the-bog-of-frogs",
-        title="Rabbit and Bear: The Bog of Frogs", author="Julian Gough", illustrator="Jim Field", series="Rabbit and Bear (book 7)",
+        title="Rabbit and Bear: The Bog of Frogs", buy="https://link.amazon/B08xaGIJb", author="Julian Gough", illustrator="Jim Field", series="Rabbit and Bear (book 7)",
         publisher="Hachette Children’s Group", published="2026-10-08", pages=0, isbn="", fmt="Hardback", genre="Illustrated animal adventure",
         age="5 and up", agemin=5, agemax=9,
         hook="Rabbit wonders what stars are made of and feels very small, until some new friends in a bog show him the bigger picture.",
@@ -350,7 +350,7 @@ BOOKS = [
     ),
     dict(
         rank=15, slug="nina-peanut-major-drama-alert", image="book-nina-peanut-major-drama-alert",
-        title="Nina Peanut: Major Drama Alert", author="Sarah Bowie", series="Nina Peanut (book 4)",
+        title="Nina Peanut: Major Drama Alert", buy="https://link.amazon/B0iPoRJOp", author="Sarah Bowie", series="Nina Peanut (book 4)",
         publisher="Scholastic", published="2026-05-07", pages=266, isbn="9780702348198", fmt="Paperback", genre="Illustrated school fiction",
         age="9+", agemin=9, agemax=13,
         hook="Nina wants the lead in the school play of Romeo and Juliet, but a new boy and an old rival are in the way.",
@@ -375,7 +375,7 @@ BOOKS = [
     ),
     dict(
         rank=16, slug="the-catastrophic-friendship-fails-of-lottie-brooks", image="book-the-catastrophic-friendship-fails-of-lottie-brooks",
-        title="The Catastrophic Friendship Fails of Lottie Brooks", author="Katie Kirby", series="Lottie Brooks (book 2)",
+        title="The Catastrophic Friendship Fails of Lottie Brooks", buy="https://link.amazon/B0grwwahL", author="Katie Kirby", series="Lottie Brooks (book 2)",
         publisher="Puffin", published="2022-03-03", pages=0, isbn="9780241460900", fmt="Paperback", genre="Comic diary fiction",
         age="9 to 12 (suggested)", agemin=9, agemax=12,
         hook="Lottie lands the lead in the spring musical, but her friendships start to unravel despite her efforts.",
@@ -399,7 +399,7 @@ BOOKS = [
     ),
     dict(
         rank=17, slug="dog-man-10th-birthday-edition", image="book-dog-man-10th-birthday-edition",
-        title="Dog Man: 10th Birthday Edition", author="Dav Pilkey", series="Dog Man (book 1, anniversary edition)",
+        title="Dog Man: 10th Birthday Edition", buy="https://link.amazon/B073hlkXT", author="Dav Pilkey", series="Dog Man (book 1, anniversary edition)",
         publisher="Scholastic", published="2026-09-10", pages=0, isbn="9780702351143", fmt="Paperback with foil cover", genre="Graphic novel",
         age="6 to 9", agemin=6, agemax=9,
         hook="A special foil-covered paperback of the first Dog Man book, celebrating ten years of the part-dog, part-police-officer hero.",
@@ -423,7 +423,7 @@ BOOKS = [
     ),
     dict(
         rank=18, slug="detective-thingy-majiggy", image="book-detective-thingy-majiggy",
-        title="Detective Thingy Majiggy", author="Cecelia Ahern", illustrator="Katie Saunders", series="Detective Thingy Majiggy (book 1)",
+        title="Detective Thingy Majiggy", buy="https://link.amazon/B07b6C8gG", author="Cecelia Ahern", illustrator="Katie Saunders", series="Detective Thingy Majiggy (book 1)",
         publisher="HarperCollins Children’s Books", published="", pages=0, isbn="9780008792626", fmt="Paperback", genre="Mystery",
         age="7 to 9", agemin=7, agemax=9,
         hook="Mia can talk to everyday objects, and they talk back, which makes her a very useful new detective.",
@@ -448,7 +448,7 @@ BOOKS = [
     ),
     dict(
         rank=19, slug="the-danger-game", image="book-the-danger-game",
-        title="The Danger Game", author="Tom Fletcher", illustrator="Shane Devries", series="The Danger Gang (book 2)",
+        title="The Danger Game", buy="https://link.amazon/B01OSjNbG", author="Tom Fletcher", illustrator="Shane Devries", series="The Danger Gang (book 2)",
         publisher="Puffin", published="2026-10-08", pages=384, isbn="9780241595992", fmt="Hardback", genre="Adventure",
         age="7 to 11 (suggested)", agemin=7, agemax=11,
         hook="Franky Brown is pulled inside a dangerous videogame his mum invented, and the Danger Gang has five levels to get through to rescue him.",
@@ -472,7 +472,7 @@ BOOKS = [
     ),
     dict(
         rank=20, slug="classic-football-heroes-best", image="book-classic-football-heroes-best",
-        title="Classic Football Heroes: Best", author="Matt Oldfield", series="Classic Football Heroes (Midfield Generals)",
+        title="Classic Football Heroes: Best", buy="https://link.amazon/B0fio89yl", author="Matt Oldfield", series="Classic Football Heroes (Midfield Generals)",
         publisher="Dino Books", published="2026-10-22", pages=176, isbn="9781789469530", fmt="Paperback", genre="Football biography",
         age="7 and up", agemin=7, agemax=12,
         hook="The story of George Best, the Belfast boy who was told he was too small and became a Manchester United legend.",

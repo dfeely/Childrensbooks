@@ -24,6 +24,8 @@ book_series: Diary of a Wimpy Kid (book 21)
 ---
 **Diary of a Wimpy Kid: Fight or Flight** is a humorous school fiction title by Jeff Kinney. In the children’s bestseller list we checked on 7 November 2026, it was number 1. This guide explains what the book is about, who it suits, how to talk about it and what to read next.
 
+<p class="buybox"><a class="btn" href="https://link.amazon/B0iGjeIJi" rel="sponsored nofollow noopener" target="_blank">Buy Diary of a Wimpy Kid: Fight or Flight on Amazon</a><small>Affiliate link. As an Amazon Associate we may earn from qualifying purchases, at no extra cost to you.</small></p>
+
 ## What is Diary of a Wimpy Kid: Fight or Flight about?
 
 In the 21st diary, Greg Heffley keeps a binder full of notes about the biggest bullies at his middle school, along with his own tips for dealing with them. Then the binder lands in the wrong hands. The bullies start hunting for the person behind it, and Greg has to decide whether to back down or stand his ground.

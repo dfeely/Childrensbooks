@@ -36,7 +36,7 @@ The illustrations on this site are original artwork created for childrensbooks.i
 
 ## Independence
 
-This site does not carry advertising or affiliate links. Our recommendations are based on what makes a good book for children, not on commissions.
+A few pages carry an Amazon affiliate link. As an Amazon Associate we may earn from qualifying purchases, at no extra cost to you. Our recommendations are based on what makes a good book for children, not on commissions.
 
 ## A note on accuracy
 

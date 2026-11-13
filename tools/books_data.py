@@ -10,7 +10,7 @@ LIST_DATE = "7 November 2026"
 BOOKS = [
     dict(
         rank=1, slug="diary-of-a-wimpy-kid-fight-or-flight", image="book-wimpy-kid-fight-or-flight",
-        title="Diary of a Wimpy Kid: Fight or Flight", author="Jeff Kinney", series="Diary of a Wimpy Kid (book 21)",
+        title="Diary of a Wimpy Kid: Fight or Flight", author="Jeff Kinney", buy="https://link.amazon/B0iGjeIJi", series="Diary of a Wimpy Kid (book 21)",
         publisher="Puffin", published="2026-10-20", pages=224, isbn="9780241745212", fmt="Hardback", genre="Humorous school fiction",
         age="8 to 12 (suggested)", agemin=8, agemax=12,
         hook="Greg Heffley’s notes on the school bullies end up in the wrong hands, and now everyone wants to know who wrote them.",

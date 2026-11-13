@@ -89,7 +89,10 @@ def body(b):
     kind_word = b["genre"].lower()
     intro = (f"**{t}** is a {kind_word} title {author_phrase(b)}. In the children’s bestseller list we checked on {LIST_DATE}, "
              f"it was number {b['rank']}. This guide explains what the book is about, who it suits, how to talk about it and what to read next.")
-    out = [intro, f"## What is {t} about?", *b["about"]]
+    out = [intro]
+    if b.get("buy"):
+        out.append(f'<p class="buybox"><a class="btn" href="{b["buy"]}" rel="sponsored nofollow noopener" target="_blank">Buy {t} on Amazon</a><small>Affiliate link. As an Amazon Associate we may earn from qualifying purchases, at no extra cost to you.</small></p>')
+    out += [f"## What is {t} about?", *b["about"]]
     out += [f"## {t}: book details", details_table(b),
             "Ages marked as “suggested” are our own guidance, not the publisher’s. Editions and dates can differ between shops, so check the listing for the copy you want.",
             f"## Why children enjoy {t}", "\n".join(f"- {w}" for w in b["why"])]

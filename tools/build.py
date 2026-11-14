@@ -55,6 +55,11 @@ FOOT_IRISH = [
 ]
 FOOT_GUIDES = [
     ("All guides", "/guides/"),
+    ("Free colouring pages", "/free-printable-colouring-pages-for-kids/"),
+    ("Reading log and chart", "/printable-reading-log-and-chart-for-children/"),
+    ("World Book Day costumes", "/world-book-day-costume-ideas-from-childrens-books/"),
+    ("Book activities for kids", "/book-activities-for-kids-at-home/"),
+    ("Books about animals", "/best-childrens-books-about-animals/"),
     ("How to choose a book", "/how-to-choose-a-childrens-book/"),
     ("Reading aloud", "/how-to-read-aloud-to-children/"),
     ("Reluctant readers", "/how-to-help-a-reluctant-reader/"),

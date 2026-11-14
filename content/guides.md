@@ -7,7 +7,7 @@ nav: /guides/
 image: banner-guides
 alt: A stack of colourful books with a thoughtful owl on top and a pencil beside it
 lede: Short, practical guides on choosing books, reading aloud and keeping children reading, written for busy families.
-related: books-by-age,irish-childrens-authors,bedtime-stories-for-children
+related: books-by-age,free-printable-colouring-pages-for-kids,irish-childrens-authors,bedtime-stories-for-children
 ---
 Raising a reader does not need special training or lots of time. It needs a few good habits and books children want to pick up. These guides cover the questions parents and carers ask most.
 
@@ -17,6 +17,11 @@ Raising a reader does not need special training or lots of time. It needs a few 
 <li><a href="/how-to-help-a-reluctant-reader/"><strong>How to help a reluctant reader</strong><span>Gentle ways to turn “I hate reading” into “one more chapter”</span></a></li>
 <li><a href="/build-a-childrens-home-library-on-a-budget/"><strong>Build a home library on a budget</strong><span>Second-hand finds, swaps and free sources</span></a></li>
 <li><a href="/childrens-books-and-your-local-library/"><strong>Children’s books and your local library</strong><span>Joining, borrowing, digital loans and summer reading</span></a></li>
+<li><a href="/free-printable-colouring-pages-for-kids/"><strong>Free printable colouring pages</strong><span>Eight original A4 sheets to print at home or school</span></a></li>
+<li><a href="/printable-reading-log-and-chart-for-children/"><strong>Reading log and 30-day chart</strong><span>Two free printables to track books and build a habit</span></a></li>
+<li><a href="/book-activities-for-kids-at-home/"><strong>15 book activities for kids</strong><span>Crafts, games and writing ideas linked to favourite books</span></a></li>
+<li><a href="/world-book-day-costume-ideas-from-childrens-books/"><strong>World Book Day costume ideas</strong><span>Easy, low-cost outfits from classics and bestsellers</span></a></li>
+<li><a href="/best-childrens-books-about-animals/"><strong>Best children’s books about animals</strong><span>Animal stories for every age from toddlers to confident readers</span></a></li>
 </ul>
 
 ## The five habits of reading families

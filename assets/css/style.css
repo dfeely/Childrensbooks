@@ -181,3 +181,10 @@ blockquote p:last-child{margin-bottom:0}
 
 .buybox{margin:1.2rem 0;display:flex;flex-wrap:wrap;align-items:center;gap:.6rem 1rem}
 .buybox small{color:var(--muted,#4a5578);font-size:.85rem;max-width:34rem}
+
+.printgrid{list-style:none;margin:1.6rem 0 2rem;padding:0;display:grid;gap:1.1rem;grid-template-columns:repeat(auto-fill,minmax(min(100%,13rem),1fr))}
+.printgrid a{display:flex;flex-direction:column;gap:.35rem;height:100%;padding:.7rem;background:var(--paper,#fff);border:var(--line);border-radius:14px;box-shadow:0 4px 0 var(--ink);text-decoration:none;color:var(--ink)}
+.printgrid a:hover{transform:translateY(2px);box-shadow:0 2px 0 var(--ink)}
+.printgrid img{width:100%;height:auto;border:2px solid var(--ink);border-radius:8px;background:#fff}
+.printgrid span{font-size:.9rem;color:var(--meadow)}
+.sheet>.printgrid{max-width:none}

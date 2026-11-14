@@ -20,6 +20,8 @@ book_agemax: 4
 ---
 **Guess How Much I Love You** is a bedtime picture book by [Sam McBratney](/sam-mcbratney/), illustrated by Anita Jeram, first published in 1994. It is number 19 in our list of the [best children’s books of all time](/best-childrens-books-of-all-time/). A little hare and a big hare try to outdo each other in saying how much they love one another.
 
+<p class="buybox"><a class="btn" href="https://www.amazon.ie/s?k=Guess+How+Much+I+Love+You+Sam+McBratney&tag=childrensb09f-21" rel="sponsored nofollow noopener" target="_blank">Check price on Amazon.ie</a><small>Affiliate link. As an Amazon Associate we may earn from qualifying purchases, at no extra cost to you.</small></p>
+
 ## What is Guess How Much I Love You about?
 
 At bedtime, Little Nutbrown Hare tries to show Big Nutbrown Hare how much he loves him, by stretching his arms wide, hopping high and reaching up. Big Nutbrown Hare can always go a little further.

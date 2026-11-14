@@ -20,6 +20,8 @@ book_agemax: 4
 ---
 **The Very Hungry Caterpillar** is a picture book by [Eric Carle](/eric-carle/), first published in 1969. It is number 2 in our list of the [best children’s books of all time](/best-childrens-books-of-all-time/). A tiny caterpillar eats its way through the week and turns into a butterfly.
 
+<p class="buybox"><a class="btn" href="https://www.amazon.ie/s?k=The+Very+Hungry+Caterpillar+Eric+Carle&tag=childrensb09f-21" rel="sponsored nofollow noopener" target="_blank">Check price on Amazon.ie</a><small>Affiliate link. As an Amazon Associate we may earn from qualifying purchases, at no extra cost to you.</small></p>
+
 ## What is The Very Hungry Caterpillar about?
 
 A very hungry caterpillar hatches on a Sunday and eats a little more food every day, until he has eaten far too much and feels unwell. After a good rest in a cocoon, he comes out as a beautiful butterfly.

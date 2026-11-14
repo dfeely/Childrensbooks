@@ -20,6 +20,8 @@ book_agemax: 6
 ---
 **The Gruffalo** is a rhyming picture book by [Julia Donaldson](/julia-donaldson/), illustrated by Axel Scheffler, first published in 1999. It is number 7 in our list of the [best children’s books of all time](/best-childrens-books-of-all-time/). A clever mouse invents a terrible monster to keep hungry animals away, until the monster is real.
 
+<p class="buybox"><a class="btn" href="https://www.amazon.ie/s?k=The+Gruffalo+Julia+Donaldson&tag=childrensb09f-21" rel="sponsored nofollow noopener" target="_blank">Check price on Amazon.ie</a><small>Affiliate link. As an Amazon Associate we may earn from qualifying purchases, at no extra cost to you.</small></p>
+
 ## What is The Gruffalo about?
 
 A mouse takes a walk through the deep dark wood. When a fox, an owl and a snake all think he looks tasty, he tells each of them about a terrible monster he is on his way to meet, a creature that does not exist. Then he meets one.

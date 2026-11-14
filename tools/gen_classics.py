@@ -10,6 +10,18 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from authors_data import AUTHORS  # noqa: E402
 from classics_data import CLASSICS, CLASSIC_AUTHORS  # noqa: E402
 
+import urllib.parse
+AMAZON_TAG = "childrensb09f-21"
+SHORT = {"diary-of-a-wimpy-kid": "https://link.amazon/B0iGjeIJi"}
+
+
+def buy_url(b):
+    if b["slug"] in SHORT:
+        return SHORT[b["slug"]]
+    q = urllib.parse.quote_plus(f"{b['title']} {b['author']}")
+    return f"https://www.amazon.ie/s?k={q}&tag={AMAZON_TAG}"
+
+
 ROOT = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))
 HUB = "best-childrens-books-of-all-time"
 AUTHOR = {a["name"]: a for a in AUTHORS + CLASSIC_AUTHORS}
@@ -46,6 +58,7 @@ def body(b):
     t, au = b["title"], AUTHOR[b["author"]]
     ill = f", illustrated by {b['illustrator']}" if b.get("illustrator") and b["illustrator"] != b["author"] else ""
     out = [f"**{t}** is a {b['genre'].lower()} by [{b['author']}](/{au['slug']}/){ill}, first published in {b['year']}. It is number {b['rank']} in our list of the [best children’s books of all time](/{HUB}/). {b['hook']}"]
+    out.append(f'<p class="buybox"><a class="btn" href="{buy_url(b)}" rel="sponsored nofollow noopener" target="_blank">Check price on Amazon.ie</a><small>Affiliate link. As an Amazon Associate we may earn from qualifying purchases, at no extra cost to you.</small></p>')
     out += [f"## What is {t} about?", *b["about"]]
     rows = [("Author", f"[{b['author']}](/{au['slug']}/)")]
     if b.get("illustrator"):

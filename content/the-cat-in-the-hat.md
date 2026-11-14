@@ -20,6 +20,8 @@ book_agemax: 7
 ---
 **The Cat in the Hat** is a rhyming early reader by [Dr. Seuss](/dr-seuss/), first published in 1957. It is number 10 in our list of the [best children’s books of all time](/best-childrens-books-of-all-time/). A very rainy day turns upside down when a mischievous visitor arrives.
 
+<p class="buybox"><a class="btn" href="https://www.amazon.ie/s?k=The+Cat+in+the+Hat+Dr.+Seuss&tag=childrensb09f-21" rel="sponsored nofollow noopener" target="_blank">Check price on Amazon.ie</a><small>Affiliate link. As an Amazon Associate we may earn from qualifying purchases, at no extra cost to you.</small></p>
+
 ## What is The Cat in the Hat about?
 
 Two children are alone at home on a rainy day when a tall, talkative cat turns up and starts causing mayhem. They must decide whether to stop the fun before their mother comes home.

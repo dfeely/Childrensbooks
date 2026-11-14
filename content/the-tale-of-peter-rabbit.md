@@ -20,6 +20,8 @@ book_agemax: 6
 ---
 **The Tale of Peter Rabbit** is a classic picture book by [Beatrix Potter](/beatrix-potter/), first published in 1902. It is number 11 in our list of the [best children’s books of all time](/best-childrens-books-of-all-time/). A naughty young rabbit sneaks into a garden he has been told to avoid.
 
+<p class="buybox"><a class="btn" href="https://www.amazon.ie/s?k=The+Tale+of+Peter+Rabbit+Beatrix+Potter&tag=childrensb09f-21" rel="sponsored nofollow noopener" target="_blank">Check price on Amazon.ie</a><small>Affiliate link. As an Amazon Associate we may earn from qualifying purchases, at no extra cost to you.</small></p>
+
 ## What is The Tale of Peter Rabbit about?
 
 Peter Rabbit ignores his mother’s warning and squeezes into Mr McGregor’s garden to eat the vegetables. He is chased, loses his jacket and shoes and has a very narrow escape.

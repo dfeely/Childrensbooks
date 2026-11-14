@@ -20,6 +20,8 @@ book_agemax: 10
 ---
 **Charlotte’s Web** is a classic novel by [E.B. White](/eb-white/), illustrated by Garth Williams, first published in 1952. It is number 4 in our list of the [best children’s books of all time](/best-childrens-books-of-all-time/). A young pig is saved by a clever spider in a story about friendship and loss.
 
+<p class="buybox"><a class="btn" href="https://www.amazon.ie/s?k=Charlotte%E2%80%99s+Web+E.B.+White&tag=childrensb09f-21" rel="sponsored nofollow noopener" target="_blank">Check price on Amazon.ie</a><small>Affiliate link. As an Amazon Associate we may earn from qualifying purchases, at no extra cost to you.</small></p>
+
 ## What is Charlotte’s Web about?
 
 Wilbur, a young pig, is saved from the butcher by a girl named Fern. When he moves to a barn, he learns that he is still in danger, and a spider called Charlotte spins words into her web to help him.

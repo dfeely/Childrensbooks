@@ -19,6 +19,8 @@ book_agemax: 14
 ---
 **Anne of Green Gables** is a classic novel by [L.M. Montgomery](/lm-montgomery/), first published in 1908. It is number 17 in our list of the [best children’s books of all time](/best-childrens-books-of-all-time/). An imaginative orphan girl arrives at a farm on Prince Edward Island.
 
+<p class="buybox"><a class="btn" href="https://www.amazon.ie/s?k=Anne+of+Green+Gables+L.M.+Montgomery&tag=childrensb09f-21" rel="sponsored nofollow noopener" target="_blank">Check price on Amazon.ie</a><small>Affiliate link. As an Amazon Associate we may earn from qualifying purchases, at no extra cost to you.</small></p>
+
 ## What is Anne of Green Gables about?
 
 Anne Shirley is sent to live with an elderly brother and sister who were expecting a boy. Chatty, imaginative and quick-tempered, she soon wins her way into their hearts and the community of Avonlea.

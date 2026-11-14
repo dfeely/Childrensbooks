@@ -20,6 +20,8 @@ book_agemax: 14
 ---
 **Alice’s Adventures in Wonderland** is a classic fantasy novel by [Lewis Carroll](/lewis-carroll/), illustrated by John Tenniel, first published in 1865. It is number 9 in our list of the [best children’s books of all time](/best-childrens-books-of-all-time/). A girl falls down a rabbit hole into a world of nonsense and puzzles.
 
+<p class="buybox"><a class="btn" href="https://www.amazon.ie/s?k=Alice%E2%80%99s+Adventures+in+Wonderland+Lewis+Carroll&tag=childrensb09f-21" rel="sponsored nofollow noopener" target="_blank">Check price on Amazon.ie</a><small>Affiliate link. As an Amazon Associate we may earn from qualifying purchases, at no extra cost to you.</small></p>
+
 ## What is Alice’s Adventures in Wonderland about?
 
 Alice follows a white rabbit down a hole and finds herself in a world where size, time and logic keep changing. She meets odd creatures, goes to a mad tea party and plays croquet with the Queen of Hearts.

@@ -19,6 +19,8 @@ book_agemax: 14
 ---
 **The Hobbit** is a fantasy novel by [J.R.R. Tolkien](/jrr-tolkien/), first published in 1937. It is number 13 in our list of the [best children’s books of all time](/best-childrens-books-of-all-time/). A small, comfort-loving hobbit is swept into a quest to win back a treasure from a dragon.
 
+<p class="buybox"><a class="btn" href="https://www.amazon.ie/s?k=The+Hobbit+J.R.R.+Tolkien&tag=childrensb09f-21" rel="sponsored nofollow noopener" target="_blank">Check price on Amazon.ie</a><small>Affiliate link. As an Amazon Associate we may earn from qualifying purchases, at no extra cost to you.</small></p>
+
 ## What is The Hobbit about?
 
 Bilbo Baggins is a hobbit who likes quiet comforts. When the wizard Gandalf and a company of dwarves turn up at his door, he finds himself on an adventure to a far-off mountain and the dragon who guards its treasure.

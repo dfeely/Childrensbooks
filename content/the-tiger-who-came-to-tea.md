@@ -20,6 +20,8 @@ book_agemax: 5
 ---
 **The Tiger Who Came to Tea** is a picture book by [Judith Kerr](/judith-kerr/), first published in 1968. It is number 18 in our list of the [best children’s books of all time](/best-childrens-books-of-all-time/). A surprise visitor knocks at the door at teatime and eats everything in the house.
 
+<p class="buybox"><a class="btn" href="https://www.amazon.ie/s?k=The+Tiger+Who+Came+to+Tea+Judith+Kerr&tag=childrensb09f-21" rel="sponsored nofollow noopener" target="_blank">Check price on Amazon.ie</a><small>Affiliate link. As an Amazon Associate we may earn from qualifying purchases, at no extra cost to you.</small></p>
+
 ## What is The Tiger Who Came to Tea about?
 
 A girl called Sophie and her mother are about to have tea when there is a ring at the door. Their visitor is a large, polite tiger, who is hungry. He eats all the food and drinks everything in the house.

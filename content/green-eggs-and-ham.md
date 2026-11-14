@@ -20,6 +20,8 @@ book_agemax: 7
 ---
 **Green Eggs and Ham** is a rhyming early reader by [Dr. Seuss](/dr-seuss/), first published in 1960. It is number 14 in our list of the [best children’s books of all time](/best-childrens-books-of-all-time/). A grumpy character is asked again and again to try a plate of green eggs and ham.
 
+<p class="buybox"><a class="btn" href="https://www.amazon.ie/s?k=Green+Eggs+and+Ham+Dr.+Seuss&tag=childrensb09f-21" rel="sponsored nofollow noopener" target="_blank">Check price on Amazon.ie</a><small>Affiliate link. As an Amazon Associate we may earn from qualifying purchases, at no extra cost to you.</small></p>
+
 ## What is Green Eggs and Ham about?
 
 One character keeps asking another if he will try green eggs and ham. Here or there, in a house or with a mouse, the answer is always no, until he finally tastes them.

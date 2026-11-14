@@ -20,6 +20,8 @@ book_agemax: 10
 ---
 **Charlie and the Chocolate Factory** is a comic fantasy novel by [Roald Dahl](/roald-dahl/), illustrated by Quentin Blake, first published in 1964. It is number 15 in our list of the [best children’s books of all time](/best-childrens-books-of-all-time/). Five children win golden tickets to see inside Willy Wonka’s famous chocolate factory.
 
+<p class="buybox"><a class="btn" href="https://www.amazon.ie/s?k=Charlie+and+the+Chocolate+Factory+Roald+Dahl&tag=childrensb09f-21" rel="sponsored nofollow noopener" target="_blank">Check price on Amazon.ie</a><small>Affiliate link. As an Amazon Associate we may earn from qualifying purchases, at no extra cost to you.</small></p>
+
 ## What is Charlie and the Chocolate Factory about?
 
 Charlie Bucket is a poor boy who lives with his family near a mysterious chocolate factory. When he wins one of five golden tickets, he joins a tour with four other children and the eccentric Willy Wonka.

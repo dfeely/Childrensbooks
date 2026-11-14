@@ -20,6 +20,8 @@ book_agemax: 3
 ---
 **Goodnight Moon** is a bedtime picture book by [Margaret Wise Brown](/margaret-wise-brown/), illustrated by Clement Hurd, first published in 1947. It is number 8 in our list of the [best children’s books of all time](/best-childrens-books-of-all-time/). A little rabbit says goodnight to everything in the great green room.
 
+<p class="buybox"><a class="btn" href="https://www.amazon.ie/s?k=Goodnight+Moon+Margaret+Wise+Brown&tag=childrensb09f-21" rel="sponsored nofollow noopener" target="_blank">Check price on Amazon.ie</a><small>Affiliate link. As an Amazon Associate we may earn from qualifying purchases, at no extra cost to you.</small></p>
+
 ## What is Goodnight Moon about?
 
 Before going to sleep, a little rabbit says goodnight to everything in his room, one by one, from the clocks and socks to the moon. The words are soft and slow, and the pictures get a little darker as the story goes on.

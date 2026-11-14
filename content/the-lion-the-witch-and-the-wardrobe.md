@@ -20,6 +20,8 @@ book_series: The Chronicles of Narnia
 ---
 **The Lion, the Witch and the Wardrobe** is a fantasy novel by [C.S. Lewis](/cs-lewis/), first published in 1950. It is number 5 in our list of the [best children’s books of all time](/best-childrens-books-of-all-time/). Four children step through a wardrobe and find a snowy land called Narnia.
 
+<p class="buybox"><a class="btn" href="https://www.amazon.ie/s?k=The+Lion%2C+the+Witch+and+the+Wardrobe+C.S.+Lewis&tag=childrensb09f-21" rel="sponsored nofollow noopener" target="_blank">Check price on Amazon.ie</a><small>Affiliate link. As an Amazon Associate we may earn from qualifying purchases, at no extra cost to you.</small></p>
+
 ## What is The Lion, the Witch and the Wardrobe about?
 
 Four siblings are sent to a country house during the war. The youngest, Lucy, finds a wardrobe that opens into a snowy wood called Narnia, where it is always winter and never Christmas. The children discover that they have a part to play in the land’s fate.

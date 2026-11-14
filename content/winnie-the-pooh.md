@@ -20,6 +20,8 @@ book_agemax: 8
 ---
 **Winnie-the-Pooh** is a classic story collection by [A.A. Milne](/aa-milne/), illustrated by E.H. Shepard, first published in 1926. It is number 12 in our list of the [best children’s books of all time](/best-childrens-books-of-all-time/). Gentle adventures with a bear of very little brain and his friends in the woods.
 
+<p class="buybox"><a class="btn" href="https://www.amazon.ie/s?k=Winnie-the-Pooh+A.A.+Milne&tag=childrensb09f-21" rel="sponsored nofollow noopener" target="_blank">Check price on Amazon.ie</a><small>Affiliate link. As an Amazon Associate we may earn from qualifying purchases, at no extra cost to you.</small></p>
+
 ## What is Winnie-the-Pooh about?
 
 A boy called Christopher Robin and his toy animals have gentle adventures in the forest, from hunting for honey to building a house for a donkey and looking for a very small hole. Each chapter is a self-contained story.

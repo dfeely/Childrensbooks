@@ -19,6 +19,8 @@ book_agemax: 10
 ---
 **The Wind in the Willows** is a classic animal fantasy by [Kenneth Grahame](/kenneth-grahame/), first published in 1908. It is number 16 in our list of the [best children’s books of all time](/best-childrens-books-of-all-time/). Four friends share adventures along a riverbank and in the Wild Wood.
 
+<p class="buybox"><a class="btn" href="https://www.amazon.ie/s?k=The+Wind+in+the+Willows+Kenneth+Grahame&tag=childrensb09f-21" rel="sponsored nofollow noopener" target="_blank">Check price on Amazon.ie</a><small>Affiliate link. As an Amazon Associate we may earn from qualifying purchases, at no extra cost to you.</small></p>
+
 ## What is The Wind in the Willows about?
 
 Mole leaves his spring cleaning behind and meets Ratty on the river. Together with grumpy, wise Badger and boastful Toad, they have adventures by the water, in the Wild Wood and at Toad Hall.

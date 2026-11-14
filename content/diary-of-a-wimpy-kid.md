@@ -21,6 +21,8 @@ book_series: Diary of a Wimpy Kid
 ---
 **Diary of a Wimpy Kid** is a illustrated diary novel by [Jeff Kinney](/jeff-kinney/), first published in 2007. It is number 20 in our list of the [best children’s books of all time](/best-childrens-books-of-all-time/). An illustrated journal of a boy’s first year at middle school.
 
+<p class="buybox"><a class="btn" href="https://link.amazon/B0iGjeIJi" rel="sponsored nofollow noopener" target="_blank">Check price on Amazon.ie</a><small>Affiliate link. As an Amazon Associate we may earn from qualifying purchases, at no extra cost to you.</small></p>
+
 ## What is Diary of a Wimpy Kid about?
 
 Greg Heffley starts middle school and records his troubles, schemes and mistakes in a journal. He wants to be popular, but his plans have a way of going wrong.

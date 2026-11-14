@@ -20,6 +20,8 @@ book_series: Harry Potter
 ---
 **Harry Potter and the Philosopher’s Stone** is a fantasy novel by [J.K. Rowling](/jk-rowling/), first published in 1997. It is number 1 in our list of the [best children’s books of all time](/best-childrens-books-of-all-time/). The first book about a boy who learns he is a wizard and starts at a school of magic.
 
+<p class="buybox"><a class="btn" href="https://www.amazon.ie/s?k=Harry+Potter+and+the+Philosopher%E2%80%99s+Stone+J.K.+Rowling&tag=childrensb09f-21" rel="sponsored nofollow noopener" target="_blank">Check price on Amazon.ie</a><small>Affiliate link. As an Amazon Associate we may earn from qualifying purchases, at no extra cost to you.</small></p>
+
 ## What is Harry Potter and the Philosopher’s Stone about?
 
 Harry Potter is an orphan living with relatives who do not like him, until a letter arrives to tell him he is a wizard. He goes to Hogwarts School of Witchcraft and Wizardry, where he makes his first friends and finds that a great danger is hidden inside the school.

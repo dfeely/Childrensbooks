@@ -20,6 +20,8 @@ book_agemax: 7
 ---
 **Where the Wild Things Are** is a picture book by [Maurice Sendak](/maurice-sendak/), first published in 1963. It is number 3 in our list of the [best children’s books of all time](/best-childrens-books-of-all-time/). A boy sent to bed without supper sails away to a wild island and learns he can go home again.
 
+<p class="buybox"><a class="btn" href="https://www.amazon.ie/s?k=Where+the+Wild+Things+Are+Maurice+Sendak&tag=childrensb09f-21" rel="sponsored nofollow noopener" target="_blank">Check price on Amazon.ie</a><small>Affiliate link. As an Amazon Associate we may earn from qualifying purchases, at no extra cost to you.</small></p>
+
 ## What is Where the Wild Things Are about?
 
 After causing trouble at home, Max is sent to bed without his supper. His bedroom turns into a forest and he sails across the sea to the land of the wild things, where he is made their king. In the end, homesick, he returns to find his supper waiting for him.

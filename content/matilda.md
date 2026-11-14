@@ -20,6 +20,8 @@ book_agemax: 11
 ---
 **Matilda** is a comic novel by [Roald Dahl](/roald-dahl/), illustrated by Quentin Blake, first published in 1988. It is number 6 in our list of the [best children’s books of all time](/best-childrens-books-of-all-time/). A bright girl with unkind parents finds a surprising power.
 
+<p class="buybox"><a class="btn" href="https://www.amazon.ie/s?k=Matilda+Roald+Dahl&tag=childrensb09f-21" rel="sponsored nofollow noopener" target="_blank">Check price on Amazon.ie</a><small>Affiliate link. As an Amazon Associate we may earn from qualifying purchases, at no extra cost to you.</small></p>
+
 ## What is Matilda about?
 
 Matilda is a very clever little girl whose parents do not notice. She teaches herself to read and borrows books from the library. At school she meets a kind teacher, and a frightening headteacher, and finds she has a special power.

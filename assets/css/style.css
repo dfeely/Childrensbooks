@@ -188,3 +188,17 @@ blockquote p:last-child{margin-bottom:0}
 .printgrid img{width:100%;height:auto;border:2px solid var(--ink);border-radius:8px;background:#fff}
 .printgrid span{font-size:.9rem;color:var(--meadow)}
 .sheet>.printgrid{max-width:none}
+
+.shopgrid{list-style:none;margin:1.6rem 0 2rem;padding:0;display:grid;gap:1.2rem;grid-template-columns:repeat(auto-fill,minmax(min(100%,19rem),1fr))}
+.sheet>.shopgrid{max-width:none}
+.shopcard{display:flex;flex-direction:column;background:var(--paper,#fff);border:var(--line);border-radius:16px;box-shadow:0 4px 0 var(--ink);overflow:hidden}
+.shopcard img{width:100%;height:auto;display:block;border-bottom:var(--line)}
+.shopbody{padding:1rem 1.1rem 1.2rem;display:flex;flex-direction:column;gap:.4rem;flex:1}
+.shopbody h3{margin:0;font-size:1.2rem}
+.shopbody h3 a{color:var(--ink)}
+.shopbody .n{display:inline-block;min-width:1.7em;text-align:center;background:var(--butter);border:2px solid var(--ink);border-radius:999px;font-size:.9rem;margin-right:.3rem}
+.shopbody .by{color:var(--muted,#4a5578);font-size:.92rem;margin:0}
+.shopbody p{margin:0}
+.shopbtns{margin-top:auto!important;padding-top:.7rem;display:flex;flex-wrap:wrap;align-items:center;gap:.5rem .9rem}
+.shopbtns .btn{padding:.55rem 1rem;font-size:.95rem}
+.shopbtns .more{font-size:.92rem}

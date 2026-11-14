@@ -22,6 +22,7 @@ Raising a reader does not need special training or lots of time. It needs a few 
 <li><a href="/book-activities-for-kids-at-home/"><strong>15 book activities for kids</strong><span>Crafts, games and writing ideas linked to favourite books</span></a></li>
 <li><a href="/world-book-day-costume-ideas-from-childrens-books/"><strong>World Book Day costume ideas</strong><span>Easy, low-cost outfits from classics and bestsellers</span></a></li>
 <li><a href="/best-childrens-books-about-animals/"><strong>Best children’s books about animals</strong><span>Animal stories for every age from toddlers to confident readers</span></a></li>
+<li><a href="/childrens-books-on-amazon-ireland/"><strong>Buy children’s books online in Ireland</strong><span>Ten enduring favourites, with a link to check each on Amazon.ie</span></a></li>
 </ul>
 
 ## The five habits of reading families

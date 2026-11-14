@@ -60,6 +60,7 @@ FOOT_GUIDES = [
     ("World Book Day costumes", "/world-book-day-costume-ideas-from-childrens-books/"),
     ("Book activities for kids", "/book-activities-for-kids-at-home/"),
     ("Books about animals", "/best-childrens-books-about-animals/"),
+    ("Buy books online in Ireland", "/childrens-books-on-amazon-ireland/"),
     ("How to choose a book", "/how-to-choose-a-childrens-book/"),
     ("Reading aloud", "/how-to-read-aloud-to-children/"),
     ("Reluctant readers", "/how-to-help-a-reluctant-reader/"),

@@ -23,6 +23,14 @@ Raising a reader does not need special training or lots of time. It needs a few 
 <li><a href="/world-book-day-costume-ideas-from-childrens-books/"><strong>World Book Day costume ideas</strong><span>Easy, low-cost outfits from classics and bestsellers</span></a></li>
 <li><a href="/best-childrens-books-about-animals/"><strong>Best children’s books about animals</strong><span>Animal stories for every age from toddlers to confident readers</span></a></li>
 <li><a href="/childrens-books-on-amazon-ireland/"><strong>Buy children’s books online in Ireland</strong><span>Ten enduring favourites, with a link to check each on Amazon.ie</span></a></li>
+<li><a href="/artemis-fowl-books-in-order/"><strong>Artemis Fowl books in order</strong><span>All eight novels plus the Fowl Twins spin-offs</span></a></li>
+<li><a href="/percy-jackson-books-in-order/"><strong>Percy Jackson books in order</strong><span>The five Olympians books and where to go next</span></a></li>
+<li><a href="/alex-rider-books-in-order/"><strong>Alex Rider books in order</strong><span>Spy thrillers from Stormbreaker to Scorpia Rising</span></a></li>
+<li><a href="/best-bluey-books-for-kids/"><strong>Best Bluey books for kids</strong><span>Picture and board books for toddlers and preschoolers</span></a></li>
+<li><a href="/best-peppa-pig-books/"><strong>Best Peppa Pig books</strong><span>Board books and bedtime stories for the youngest readers</span></a></li>
+<li><a href="/best-ladybird-books-for-children/"><strong>Best Ladybird books for children</strong><span>Fairy tales, rhymes and Key Words reading books</span></a></li>
+<li><a href="/best-classic-childrens-novels/"><strong>Best classic children’s novels</strong><span>Heidi, Little Women, Anne and more</span></a></li>
+<li><a href="/best-nursery-rhyme-and-fairy-tale-books/"><strong>Best nursery rhyme and fairy tale books</strong><span>Rhymes, folk tales and bedtime books</span></a></li>
 </ul>
 
 ## The five habits of reading families

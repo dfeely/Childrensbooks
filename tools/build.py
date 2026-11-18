@@ -190,7 +190,8 @@ def footer():
             f'{col("Books by age", FOOT_AGES)}{col("Irish and special", FOOT_IRISH)}{col("Guides", FOOT_GUIDES)}</div>'
             f'<p class="small">Illustrations on this site are original artwork. Book titles are mentioned for information only; '
             f'covers belong to their publishers and are not reproduced here. '
-            f'<a href="/about/">About</a> · <a href="/privacy/">Privacy</a> · © 2026 {NAME}</p></div></footer>')
+            f'<a href="/about/">About</a> · <a href="/privacy/">Privacy</a> · © 2026 {NAME}</p>'
+            f'<p class="small"><a href="https://www.feelyconsultants.com" rel="noopener" target="_blank">Solution and technical architect by</a> Feely Consultants</p></div></footer>')
 
 
 def head(title, desc, url, kind, noindex=False):
